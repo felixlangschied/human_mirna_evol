@@ -1,0 +1,1116 @@
+T-COFFEE, Version_13.45.0.4846264 (2020-10-15 17:52:11 - Revision 5becd5d - Build 620)
+Cedric Notredame 
+CPU TIME:0 sec.
+SCORE=896
+*
+ BAD AVG GOOD
+*
+Oreochromis_niloticus                         :  83
+Tursiops_truncatus                            :  87
+Ursus_arctos_horribilis                       :  86
+Megalops_cyprinoides                          :  85
+Aotus_nancymaae                               :  86
+Gopherus_evgoodei                             :  87
+Monodon_monoceros                             :  86
+Monodelphis_domestica                         :  87
+Apteryx_rowi                                  :  86
+Tyto_alba_alba                                :  85
+Trichosurus_vulpecula                         :  86
+Myripristis_murdjan                           :  85
+Bos_taurus                                    :  86
+Rhincodon_typus                               :  79
+Myotis_lucifugus                              :  84
+Parus_major                                   :  85
+Eptesicus_fuscus                              :  87
+Oncorhynchus_mykiss                           :  84
+Phalacrocorax_carbo                           :  85
+Pseudonaja_textilis                           :  82
+Protobothrops_mucrosquamatus                  :  82
+Pantherophis_guttatus                         :  83
+Tupaia_chinensis                              :  86
+Hylobates_moloch                              :  87
+Marmota_marmota_marmota                       :  87
+Lynx_canadensis                               :  86
+Tachysurus_fulvidraco                         :  82
+Serinus_canaria                               :  85
+Peromyscus_maniculatus_bairdii                :  87
+Zalophus_californianus                        :  87
+Neopelma_chrysocephalum                       :  85
+Falco_peregrinus                              :  84
+Danio_rerio                                   :  81
+Canis_lupus_dingo                             :  87
+Sebastes_umbrosus                             :  85
+Cariama_cristata                              :  85
+Cebus_imitator                                :  86
+Ceratotherium_simum_simum                     :  86
+Cavia_porcellus                               :  86
+Cercocebus_atys                               :  86
+Pterocles_gutturalis                          :  85
+Pseudopodoces_humilis                         :  84
+Desmodus_rotundus                             :  87
+Balaenoptera_acutorostrata_scammoni           :  87
+Hippoglossus_hippoglossus                     :  85
+Peromyscus_leucopus                           :  87
+Oryzias_latipes                               :  90
+Callorhinus_ursinus                           :  87
+Calypte_anna                                  :  85
+Callorhinchus_milii                           :  85
+Chlorocebus_sabaeus                           :  86
+Chinchilla_lanigera                           :  87
+Carcharodon_carcharias                        :  78
+Arvicanthis_niloticus                         :  87
+Myotis_davidii                                :  86
+Phocoena_sinus                                :  87
+Colobus_angolensis_palliatus                  :  86
+Calidris_pugnax                               :  86
+Pan_troglodytes                               :  87
+Canis_lupus_familiaris                        :  87
+Epinephelus_lanceolatus                       :  84
+Hippoglossus_stenolepis                       :  85
+Dermochelys_coriacea                          :  86
+Phyllostomus_discolor                         :  87
+Archocentrus_centrarchus                      :  83
+Phoca_vitulina                                :  87
+Mirounga_leonina                              :  87
+Motacilla_alba_alba                           :  85
+Carassius_auratus                             :  80
+Octodon_degus                                 :  87
+Cyprinodon_variegatus                         :  82
+Corvus_brachyrhynchos                         :  84
+Molossus_molossus                             :  86
+Jaculus_jaculus                               :  87
+Arvicola_amphibius                            :  86
+Pongo_abelii                                  :  87
+Gasterosteus_aculeatus_aculeatus              :  85
+Sinocyclocheilus_anshuiensis                  :  82
+Pundamilia_nyererei                           :  83
+Columba_livia                                 :  84
+Ochotona_princeps                             :  87
+Oreochromis_aureus                            :  83
+Opisthocomus_hoazin                           :  85
+Orcinus_orca                                  :  86
+Scophthalmus_maximus                          :  84
+Nestor_notabilis                              :  85
+Lontra_canadensis                             :  86
+Mus_pahari                                    :  87
+Bos_mutus                                     :  87
+Perca_flavescens                              :  82
+Oryctolagus_cuniculus                         :  87
+Myotis_myotis                                 :  86
+Neomonachus_schauinslandi                     :  87
+Salvelinus_namaycush                          :  85
+Salvelinus_sp._IW2-2015                       :  84
+Astatotilapia_calliptera                      :  83
+Acanthisitta_chloris                          :  85
+Elephantulus_edwardii                         :  86
+Esox_lucius                                   :  86
+Artibeus_jamaicensis                          :  86
+Miniopterus_natalensis                        :  87
+Colossoma_macropomum                          :  85
+Callithrix_jacchus                            :  86
+Pteropus_vampyrus                             :  87
+Xiphophorus_maculatus                         :  83
+Strigops_habroptila                           :  84
+Pimephales_promelas                           :  82
+Simochromis_diagramma                         :  83
+Charadrius_vociferus                          :  85
+Nothoprocta_perdicaria                        :  85
+Mesitornis_unicolor                           :  85
+Thamnophis_elegans                            :  83
+Dipodomys_ordii                               :  87
+Homo_sapiens                                  :  87
+Hipposideros_armiger                          :  86
+Hirundo_rustica                               :  84
+Camelus_bactrianus                            :  87
+Boleophthalmus_pectinirostris                 :  86
+Aptenodytes_forsteri                          :  85
+Tinamus_guttatus                              :  84
+Haplochromis_burtoni                          :  83
+Pelodiscus_sinensis                           :  86
+Pipistrellus_kuhlii                           :  86
+Pipra_filicauda                               :  85
+Phascolarctos_cinereus                        :  86
+Melopsittacus_undulatus                       :  84
+Oryx_dammah                                   :  86
+Camelus_ferus                                 :  86
+Salmo_trutta                                  :  83
+Coturnix_japonica                             :  85
+Nipponia_nippon                               :  84
+Trachypithecus_francoisi                      :  87
+Mustela_erminea                               :  87
+Rhinatrema_bivittatum                         :  87
+Oxyura_jamaicensis                            :  85
+Microcebus_murinus                            :  87
+Equus_przewalskii                             :  87
+Mus_caroli                                    :  87
+Cygnus_olor                                   :  85
+Sarcophilus_harrisii                          :  87
+Loxodonta_africana                            :  87
+Periophthalmus_magnuspinnatus                 :  86
+Picoides_pubescens                            :  84
+Gouania_willdenowi                            :  84
+Sus_scrofa                                    :  86
+Bubalus_bubalis                               :  87
+Scleropages_formosus                          :  84
+Zootoca_vivipara                              :  82
+Zonotrichia_albicollis                        :  85
+Gallus_gallus                                 :  85
+Ornithorhynchus_anatinus                      :  84
+Cuculus_canorus                               :  85
+Chelonoidis_abingdonii                        :  87
+Corvus_cornix_cornix                          :  84
+Alligator_mississippiensis                    :  87
+Colius_striatus                               :  84
+Ictidomys_tridecemlineatus                    :  86
+Ursus_maritimus                               :  87
+Vombatus_ursinus                              :  87
+Rhinolophus_ferrumequinum                     :  87
+Etheostoma_cragini                            :  85
+Urocitellus_parryii                           :  86
+Xenopus_tropicalis                            :  84
+Bos_indicus                                   :  86
+Odobenus_rosmarus_divergens                   :  86
+Buceros_rhinoceros_silvestris                 :  85
+Grammomys_surdaster                           :  86
+Paralichthys_olivaceus                        :  84
+Corvus_moneduloides                           :  84
+Oncorhynchus_tshawytscha                      :  84
+Mesocricetus_auratus                          :  87
+Larimichthys_crocea                           :  84
+Maylandia_zebra                               :  84
+Condylura_cristata                            :  86
+Cricetulus_griseus                            :  86
+Cyprinus_carpio                               :  79
+Ochotona_curzoniae                            :  86
+Gavialis_gangeticus                           :  87
+Ficedula_albicollis                           :  85
+Geotrypetes_seraphini                         :  86
+Chrysochloris_asiatica                        :  84
+Chrysemys_picta_bellii                        :  86
+Macaca_mulatta                                :  87
+Microtus_ochrogaster                          :  86
+Talpa_occidentalis                            :  86
+Balaenoptera_musculus                         :  86
+Notechis_scutatus                             :  81
+Odocoileus_virginianus_texanus                :  86
+Leptosomus_discolor                           :  85
+Paramormyrops_kingsleyae                      :  83
+Propithecus_coquereli                         :  87
+Macaca_nemestrina                             :  86
+Microcaecilia_unicolor                        :  87
+Electrophorus_electricus                      :  81
+Theropithecus_gelada                          :  87
+Lonchura_striata_domestica                    :  85
+Denticeps_clupeoides                          :  83
+Haliaeetus_albicilla                          :  85
+Chaetura_pelagica                             :  85
+Panthera_pardus                               :  86
+Lepidothrix_coronata                          :  84
+Fukomys_damarensis                            :  87
+Pangasianodon_hypophthalmus                   :  82
+Mandrillus_leucophaeus                        :  86
+Manis_javanica                                :  86
+Macaca_fascicularis                           :  87
+Meriones_unguiculatus                         :  86
+Merops_nubicus                                :  85
+Echeneis_naucrates                            :  86
+Dasypus_novemcinctus                          :  85
+Egretta_garzetta                              :  84
+Echinops_telfairi                             :  85
+Terrapene_carolina_triunguis                  :  87
+Chelonia_mydas                                :  86
+Sturnus_vulgaris                              :  85
+Halichoerus_grypus                            :  86
+Numida_meleagris                              :  84
+Equus_asinus                                  :  86
+Oncorhynchus_keta                             :  85
+Piliocolobus_tephrosceles                     :  87
+Cygnus_atratus                                :  84
+Rana_temporaria                               :  84
+Puma_concolor                                 :  86
+Vicugna_pacos                                 :  87
+Neophocaena_asiaeorientalis_asiaeorientalis   :  87
+Aythya_fuligula                               :  85
+Austrofundulus_limnaeus                       :  84
+Capra_hircus                                  :  87
+Heterocephalus_glaber                         :  86
+Catharus_ustulatus                            :  85
+Anolis_carolinensis                           :  82
+Anser_cygnoides_domesticus                    :  84
+Anas_platyrhynchos                            :  84
+Anarrhichthys_ocellatus                       :  85
+Amphiprion_ocellaris                          :  83
+Marmota_flaviventris                          :  87
+Onychomys_torridus                            :  87
+Oncorhynchus_kisutch                          :  85
+Falco_rusticolus                              :  85
+Syngnathus_acus                               :  81
+Suricata_suricatta                            :  87
+Pungitius_pungitius                           :  85
+Kryptolebias_marmoratus                       :  85
+Delphinapterus_leucas                         :  87
+Castor_canadensis                             :  87
+Sander_lucioperca                             :  86
+Cyprinodon_tularosa                           :  83
+Carlito_syrichta                              :  87
+Neolamprologus_brichardi                      :  83
+Crocodylus_porosus                            :  87
+Corapipo_altera                               :  84
+Acipenser_ruthenus                            :  82
+Labrus_bergylta                               :  85
+Lacerta_agilis                                :  84
+Pyrgilauda_ruficollis                         :  85
+Eurypyga_helias                               :  85
+Xiphophorus_hellerii                          :  83
+Saimiri_boliviensis_boliviensis               :  87
+Ovis_aries                                    :  86
+Onychostruthus_taczanowskii                   :  85
+Micropterus_salmoides                         :  85
+Thamnophis_sirtalis                           :  82
+Scyliorhinus_canicula                         :  82
+Manacus_vitellinus                            :  84
+Mastomys_coucha                               :  87
+Puma_yagouaroundi                             :  87
+Leptonychotes_weddellii                       :  86
+Nomascus_leucogenys                           :  87
+Haliaeetus_leucocephalus                      :  84
+Falco_cherrug                                 :  84
+Ictalurus_punctatus                           :  83
+Felis_catus                                   :  87
+Polypterus_senegalus                          :  83
+Eumetopias_jubatus                            :  86
+Astyanax_mexicanus                            :  84
+Dromaius_novaehollandiae                      :  85
+Notolabrus_celidotus                          :  86
+Rhinopithecus_bieti                           :  86
+Sinocyclocheilus_grahami                      :  81
+Rousettus_aegyptiacus                         :  87
+Apaloderma_vittatum                           :  85
+Bison_bison_bison                             :  87
+Crotalus_tigris                               :  80
+Cottoperca_gobio                              :  84
+Bos_indicus_x_Bos_taurus                      :  86
+Rattus_norvegicus                             :  87
+Orycteropus_afer_afer                         :  86
+Phasianus_colchicus                           :  85
+Podarcis_muralis                              :  83
+Polyodon_spathula                             :  86
+Pogona_vitticeps                              :  81
+Mauremys_reevesii                             :  85
+Meleagris_gallopavo                           :  85
+Tachyglossus_aculeatus                        :  86
+Trichechus_manatus_latirostris                :  86
+Seriola_lalandi_dorsalis                      :  83
+Physeter_catodon                              :  86
+Oncorhynchus_nerka                            :  84
+Rattus_rattus                                 :  86
+Athene_cunicularia                            :  85
+Manis_pentadactyla                            :  86
+Lipotes_vexillifer                            :  87
+Camelus_dromedarius                           :  87
+Mustela_putorius_furo                         :  87
+Cyanistes_caeruleus                           :  85
+Geospiza_fortis                               :  85
+Galeopterus_variegatus                        :  87
+Poecilia_reticulata                           :  84
+Empidonax_traillii                            :  85
+Antrostomus_carolinensis                      :  85
+Alligator_sinensis                            :  87
+Anguilla_anguilla                             :  85
+Amblyraja_radiata                             :  79
+Trachemys_scripta_elegans                     :  87
+Enhydra_lutris_kenyoni                        :  86
+Lates_calcarifer                              :  84
+Salmo_salar                                   :  85
+Thalassophryne_amazonica                      :  86
+Myotis_brandtii                               :  86
+Toxotes_jaculatrix                            :  84
+Otolemur_garnettii                            :  86
+Tauraco_erythrolophus                         :  85
+Sturnira_hondurensis                          :  87
+Acinonyx_jubatus                              :  86
+Acanthopagrus_latus                           :  84
+Acanthochromis_polyacanthus                   :  83
+Chanos_chanos                                 :  85
+Vulpes_vulpes                                 :  87
+Nannospalax_galili                            :  87
+Pteropus_alecto                               :  87
+Hyaena_hyaena                                 :  87
+Pan_paniscus                                  :  87
+Apteryx_mantelli_mantelli                     :  87
+Gekko_japonicus                               :  83
+Struthio_camelus_australis                    :  86
+Pygocentrus_nattereri                         :  84
+Ailuropoda_melanoleuca                        :  87
+Gadus_morhua                                  :  85
+Papio_anubis                                  :  87
+Molothrus_ater                                :  85
+Sapajus_apella                                :  87
+Pygoscelis_adeliae                            :  85
+Python_bivittatus                             :  82
+Equus_caballus                                :  87
+Pteropus_giganteus                            :  87
+Xiphophorus_couchianus                        :  82
+Mus_musculus                                  :  87
+Erinaceus_europaeus                           :  87
+Lagenorhynchus_obliquidens                    :  87
+Lepisosteus_oculatus                          :  85
+Choloepus_didactylus                          :  87
+Erpetoichthys_calabaricus                     :  81
+Passer_montanus                               :  85
+Clupea_harengus                               :  85
+Gorilla_gorilla_gorilla                       :  87
+Globicephala_melas                            :  87
+Camarhynchus_parvulus                         :  85
+Latimeria_chalumnae                           :  83
+Chiroxiphia_lanceolata                        :  84
+Aquila_chrysaetos_chrysaetos                  :  85
+Sinocyclocheilus_rhinocerous                  :  81
+Sphaeramia_orbicularis                        :  85
+Sorex_araneus                                 :  86
+Hippocampus_comes                             :  85
+Panthera_tigris_altaica                       :  87
+Rhinopithecus_roxellana                       :  86
+cons                                          :  89
+
+Oreochromis_niloticus                         --449999999999999999999999999---------001111----
+Tursiops_truncatus                            ---59999999999999999999999999----------65433--22
+Ursus_arctos_horribilis                       --449999999999999999999999999----------65433--22
+Megalops_cyprinoides                          ---59999999999999999999999999-------00000111----
+Aotus_nancymaae                               --449999999999999999999999999----------64333--22
+Gopherus_evgoodei                             ---59999999999999999999999999----------65433--22
+Monodon_monoceros                             --449999999999999999999999999----------65433--22
+Monodelphis_domestica                         ---59999999999999999999999999----------65433--22
+Apteryx_rowi                                  --449999999999999999999999999----------64433--22
+Tyto_alba_alba                                ---59999999999999999999999999-------------11--11
+Trichosurus_vulpecula                         --449999999999999999999999999----------65433--22
+Myripristis_murdjan                           ---59999999999999999999999999----------43222----
+Bos_taurus                                    --449999999999999999999999999----------65433--22
+Rhincodon_typus                               00049999999999999999999999999----------64322--11
+Myotis_lucifugus                              -0029999999999999999999999999----------65433--22
+Parus_major                                   ---59999999999999999999999999-------------11--11
+Eptesicus_fuscus                              ---59999999999999999999999999----------65433--22
+Oncorhynchus_mykiss                           --449999999999999999999999999----------64333--21
+Phalacrocorax_carbo                           ---59999999999999999999999999-------------11--11
+Pseudonaja_textilis                           ---59999999999999999999999997----------32111--00
+Protobothrops_mucrosquamatus                  --449999999999999999999999997----------32211--11
+Pantherophis_guttatus                         ---59999999999999999999999997----------32111--10
+Tupaia_chinensis                              --449999999999999999999999999----------64333--22
+Hylobates_moloch                              ---59999999999999999999999999----------65433--22
+Marmota_marmota_marmota                       ---59999999999999999999999999----------65433--22
+Lynx_canadensis                               --449999999999999999999999999----------65433--22
+Tachysurus_fulvidraco                         --449999999999999999999999999----------54322--11
+Serinus_canaria                               ---59999999999999999999999999-------------11--11
+Peromyscus_maniculatus_bairdii                ---59999999999999999999999999----------64333--22
+Zalophus_californianus                        ---59999999999999999999999999----------65433--22
+Neopelma_chrysocephalum                       ---59999999999999999999999999-------------21--11
+Falco_peregrinus                              --449999999999999999999999999-------------11--11
+Danio_rerio                                   --449999999999999999999999999----------643320011
+Canis_lupus_dingo                             ---59999999999999999999999999----------54322----
+Sebastes_umbrosus                             ---59999999999999999999999999----------42222----
+Cariama_cristata                              ---59999999999999999999999999-------------11--11
+Cebus_imitator                                --449999999999999999999999999----------64333--22
+Ceratotherium_simum_simum                     --449999999999999999999999999----------65433--22
+Cavia_porcellus                               --449999999999999999999999999----------65333--22
+Cercocebus_atys                               --449999999999999999999999999----------65433--22
+Pterocles_gutturalis                          ---59999999999999999999999999-------------11--11
+Pseudopodoces_humilis                         --449999999999999999999999999-------------11--11
+Desmodus_rotundus                             ---59999999999999999999999999----------65433--22
+Balaenoptera_acutorostrata_scammoni           ---59999999999999999999999999----------65433--22
+Hippoglossus_hippoglossus                     ---59999999999999999999999999----------43221----
+Peromyscus_leucopus                           ---59999999999999999999999999----------64333--22
+Oryzias_latipes                               --449999999999999999999999999--00000------------
+Callorhinus_ursinus                           ---59999999999999999999999999----------65433--22
+Calypte_anna                                  ---59999999999999999999999999-------------11--11
+Callorhinchus_milii                           ---59999999999999999999999999----------654330011
+Chlorocebus_sabaeus                           --449999999999999999999999999----------65433--22
+Chinchilla_lanigera                           ---59999999999999999999999999----------65333--22
+Carcharodon_carcharias                        00049999999999999999999999999----------643320011
+Arvicanthis_niloticus                         ---59999999999999999999999999----------64333--22
+Myotis_davidii                                --449999999999999999999999999----------65433--22
+Phocoena_sinus                                ---59999999999999999999999999----------65433--22
+Colobus_angolensis_palliatus                  --449999999999999999999999999----------65433--22
+Calidris_pugnax                               ---59999999999999999999999999-------------22--11
+Pan_troglodytes                               ---59999999999999999999999999----------65433--22
+Canis_lupus_familiaris                        ---59999999999999999999999999----------54322----
+Epinephelus_lanceolatus                       --449999999999999999999999999-------0---2211----
+Hippoglossus_stenolepis                       ---59999999999999999999999999----------43221----
+Dermochelys_coriacea                          --449999999999999999999999999----------65433--22
+Phyllostomus_discolor                         ---59999999999999999999999999----------65433--22
+Archocentrus_centrarchus                      ---59999999999999999999999998------------011----
+Phoca_vitulina                                ---59999999999999999999999999----------65433--22
+Mirounga_leonina                              ---59999999999999999999999999----------65433--22
+Motacilla_alba_alba                           ---59999999999999999999999999-------------11--11
+Carassius_auratus                             --449999999999999999999999999--------0001111--11
+Octodon_degus                                 ---59999999999999999999999999----------65333--22
+Cyprinodon_variegatus                         --449999999999999999999999999---------011111----
+Corvus_brachyrhynchos                         ---59999999999999999999999999-------------11--11
+Molossus_molossus                             ---59999999999999999999999999----------64332----
+Jaculus_jaculus                               ---59999999999999999999999999----------65433--22
+Arvicola_amphibius                            --449999999999999999999999999----------64333--22
+Pongo_abelii                                  ---59999999999999999999999999----------65433--22
+Gasterosteus_aculeatus_aculeatus              ---59999999999999999999999999----------42211----
+Sinocyclocheilus_anshuiensis                  ---59999999999999999999999999----------653330011
+Pundamilia_nyererei                           --449999999999999999999999999---------001111----
+Columba_livia                                 ---59999999999999999999999998--------------0--11
+Ochotona_princeps                             ---59999999999999999999999999----------65432--22
+Oreochromis_aureus                            --449999999999999999999999999---------001111----
+Opisthocomus_hoazin                           ---59999999999999999999999999-------------11--11
+Orcinus_orca                                  --449999999999999999999999999----------65433--22
+Scophthalmus_maximus                          --449999999999999999999999999----------42222----
+Nestor_notabilis                              ---59999999999999999999999999-------------11--11
+Lontra_canadensis                             --449999999999999999999999999----------64322----
+Mus_pahari                                    ---59999999999999999999999999----------64333--22
+Bos_mutus                                     ---59999999999999999999999999----------65433--22
+Perca_flavescens                              -0039999999999999999999999999----------42222----
+Oryctolagus_cuniculus                         ---59999999999999999999999999----------54322----
+Myotis_myotis                                 --449999999999999999999999999----------65433--22
+Neomonachus_schauinslandi                     ---59999999999999999999999999----------65433--22
+Salvelinus_namaycush                          ---59999999999999999999999999----------64333--21
+Salvelinus_sp._IW2-2015                       --449999999999999999999999999----------64333--21
+Astatotilapia_calliptera                      --449999999999999999999999999---------001111----
+Acanthisitta_chloris                          ---59999999999999999999999999-------------11--11
+Elephantulus_edwardii                         --449999999999999999999999999----------65433--22
+Esox_lucius                                   --449999999999999999999999999----------65433--22
+Artibeus_jamaicensis                          --449999999999999999999999999----------65433--22
+Miniopterus_natalensis                        ---59999999999999999999999999----------65433--22
+Colossoma_macropomum                          ---59999999999999999999999999----------54333--22
+Callithrix_jacchus                            --449999999999999999999999999----------64433--22
+Pteropus_vampyrus                             ---59999999999999999999999999----------65433--22
+Xiphophorus_maculatus                         --449999999999999999999999999-----------1222--11
+Strigops_habroptila                           --449999999999999999999999999-------------11--11
+Pimephales_promelas                           --449999999999999999999999999000000000000000----
+Simochromis_diagramma                         --449999999999999999999999999-----------1112--22
+Charadrius_vociferus                          ---59999999999999999999999999-------------11--11
+Nothoprocta_perdicaria                        ---59999999999999999999999999----------54332--11
+Mesitornis_unicolor                           ---59999999999999999999999999-------------21--11
+Thamnophis_elegans                            ---59999999999999999999999997----------32111--10
+Dipodomys_ordii                               ---59999999999999999999999999----------65433--22
+Homo_sapiens                                  ---59999999999999999999999999----------65433--22
+Hipposideros_armiger                          --449999999999999999999999999----------65433--22
+Hirundo_rustica                               --449999999999999999999999999-------------11--11
+Camelus_bactrianus                            ---59999999999999999999999999----------65433--22
+Boleophthalmus_pectinirostris                 --449999999999999999999999999----------53322----
+Aptenodytes_forsteri                          ---59999999999999999999999999-------------11--11
+Tinamus_guttatus                              --449999999999999999999999999----------64332--11
+Haplochromis_burtoni                          --449999999999999999999999999---------001111----
+Pelodiscus_sinensis                           --449999999999999999999999999----------65433--22
+Pipistrellus_kuhlii                           --449999999999999999999999999----------65433--22
+Pipra_filicauda                               ---59999999999999999999999999-------------21--11
+Phascolarctos_cinereus                        --449999999999999999999999999----------64322----
+Melopsittacus_undulatus                       --449999999999999999999999999-------------11--11
+Oryx_dammah                                   --449999999999999999999999999----------65433--22
+Camelus_ferus                                 --449999999999999999999999999----------65433--22
+Salmo_trutta                                  --449999999999999999999999999-------00000111----
+Coturnix_japonica                             ---59999999999999999999999999-------------11--11
+Nipponia_nippon                               --449999999999999999999999999-------------11--11
+Trachypithecus_francoisi                      ---59999999999999999999999999----------65433--22
+Mustela_erminea                               ---59999999999999999999999999----------64322----
+Rhinatrema_bivittatum                         ---59999999999999999999999999----------65433--22
+Oxyura_jamaicensis                            ---59999999999999999999999999-------------11--11
+Microcebus_murinus                            ---59999999999999999999999999----------65433--22
+Equus_przewalskii                             ---59999999999999999999999999----------65433--22
+Mus_caroli                                    ---59999999999999999999999999----------64333--22
+Cygnus_olor                                   ---59999999999999999999999999-------------11--11
+Sarcophilus_harrisii                          ---59999999999999999999999999----------65433--22
+Loxodonta_africana                            ---59999999999999999999999999----------65433--22
+Periophthalmus_magnuspinnatus                 --449999999999999999999999999----------54322----
+Picoides_pubescens                            ---59999999999999999999999999-------------11--11
+Gouania_willdenowi                            --449999999999999999999999999-----------1122--1-
+Sus_scrofa                                    --449999999999999999999999999----------65433--22
+Bubalus_bubalis                               ---59999999999999999999999999----------65433--22
+Scleropages_formosus                          --449999999999999999999999999----------65332--21
+Zootoca_vivipara                              ---59999999999999999999999997----------32111--00
+Zonotrichia_albicollis                        ---59999999999999999999999999-------------11--11
+Gallus_gallus                                 ---59999999999999999999999999-------------11--11
+Ornithorhynchus_anatinus                      -0039999999999999999999999999----------65433--22
+Cuculus_canorus                               ---59999999999999999999999999-------------11--11
+Chelonoidis_abingdonii                        ---59999999999999999999999999----------65433--22
+Corvus_cornix_cornix                          ---59999999999999999999999999-------------11--11
+Alligator_mississippiensis                    ---59999999999999999999999999----------65433--22
+Colius_striatus                               --449999999999999999999999999-------------11--11
+Ictidomys_tridecemlineatus                    --449999999999999999999999999----------65433--22
+Ursus_maritimus                               ---59999999999999999999999999----------65433--22
+Vombatus_ursinus                              ---59999999999999999999999999----------65433--22
+Rhinolophus_ferrumequinum                     ---59999999999999999999999999----------65433--22
+Etheostoma_cragini                            ---59999999999999999999999999----------42222----
+Urocitellus_parryii                           --449999999999999999999999999----------65433--22
+Xenopus_tropicalis                            ---59999999999999999999999999-----00----1111--12
+Bos_indicus                                   --449999999999999999999999999----------65433--22
+Odobenus_rosmarus_divergens                   --449999999999999999999999999----------65433--22
+Buceros_rhinoceros_silvestris                 ---59999999999999999999999999-------------21--11
+Grammomys_surdaster                           --449999999999999999999999999----------64333--22
+Paralichthys_olivaceus                        ---59999999999999999999999999----------42221----
+Corvus_moneduloides                           ---59999999999999999999999999-------------11--11
+Oncorhynchus_tshawytscha                      --449999999999999999999999999----------64333--21
+Mesocricetus_auratus                          ---59999999999999999999999999----------64333--22
+Larimichthys_crocea                           ---59999999999999999999999999----------42222----
+Maylandia_zebra                               ---59999999999999999999999999---------001111----
+Condylura_cristata                            --449999999999999999999999999----------65433--22
+Cricetulus_griseus                            --449999999999999999999999999----------64333--22
+Cyprinus_carpio                               --449999999999999999999999999----------542220011
+Ochotona_curzoniae                            --449999999999999999999999999----------65432--22
+Gavialis_gangeticus                           ---59999999999999999999999999----------65433--22
+Ficedula_albicollis                           ---59999999999999999999999999-------------11--11
+Geotrypetes_seraphini                         --449999999999999999999999999----------64333--22
+Chrysochloris_asiatica                        -0029999999999999999999999999----------64333--2-
+Chrysemys_picta_bellii                        --449999999999999999999999999----------65433--22
+Macaca_mulatta                                ---59999999999999999999999999----------65433--22
+Microtus_ochrogaster                          --449999999999999999999999999----------64333--22
+Talpa_occidentalis                            --449999999999999999999999999----------65433--22
+Balaenoptera_musculus                         --449999999999999999999999999----------65433--22
+Notechis_scutatus                             --449999999999999999999999997----------32111--00
+Odocoileus_virginianus_texanus                --449999999999999999999999999----------65433--22
+Leptosomus_discolor                           ---59999999999999999999999999-------------11--11
+Paramormyrops_kingsleyae                      --449999999999999999999999999----------53222--11
+Propithecus_coquereli                         ---59999999999999999999999999----------65433--22
+Macaca_nemestrina                             --449999999999999999999999999----------65433--22
+Microcaecilia_unicolor                        ---59999999999999999999999999----------65433--22
+Electrophorus_electricus                      -0039999999999999999999999999----------54332--21
+Theropithecus_gelada                          ---59999999999999999999999999----------65433--22
+Lonchura_striata_domestica                    ---59999999999999999999999999-------------22--11
+Denticeps_clupeoides                          --449999999999999999999999999-------00000011----
+Haliaeetus_albicilla                          ---59999999999999999999999999-------------11--11
+Chaetura_pelagica                             ---59999999999999999999999999-------------11--11
+Panthera_pardus                               --449999999999999999999999999----------64333--22
+Lepidothrix_coronata                          --449999999999999999999999999-------------21--11
+Fukomys_damarensis                            ---59999999999999999999999999----------64333--22
+Pangasianodon_hypophthalmus                   --449999999999999999999999999----------54322--11
+Mandrillus_leucophaeus                        --449999999999999999999999999----------65433--22
+Manis_javanica                                --449999999999999999999999999----------65433--22
+Macaca_fascicularis                           ---59999999999999999999999999----------65433--22
+Meriones_unguiculatus                         --449999999999999999999999999----------64333--22
+Merops_nubicus                                ---59999999999999999999999999-------------11--11
+Echeneis_naucrates                            ---59999999999999999999999999---0-00------11----
+Dasypus_novemcinctus                          ---59999999999999999999999999---------012222--22
+Egretta_garzetta                              --449999999999999999999999999-------------11--11
+Echinops_telfairi                             --449999999999999999999999999------------122--22
+Terrapene_carolina_triunguis                  ---59999999999999999999999999----------65433--22
+Chelonia_mydas                                --449999999999999999999999999----------65433--22
+Sturnus_vulgaris                              ---59999999999999999999999999-------------11--11
+Halichoerus_grypus                            --449999999999999999999999999----------65433--22
+Numida_meleagris                              ---59999999999999999999999999-----------1111----
+Equus_asinus                                  --449999999999999999999999999----------65433--22
+Oncorhynchus_keta                             ---59999999999999999999999999----------64333--21
+Piliocolobus_tephrosceles                     ---59999999999999999999999999----------65433--22
+Cygnus_atratus                                --449999999999999999999999999-------------11--11
+Rana_temporaria                               ---59999999999999999999999999----------54333--21
+Puma_concolor                                 --449999999999999999999999999----------65433--22
+Vicugna_pacos                                 ---59999999999999999999999999----------65433--22
+Neophocaena_asiaeorientalis_asiaeorientalis   ---59999999999999999999999999----------65433--22
+Aythya_fuligula                               ---59999999999999999999999999-------------11--11
+Austrofundulus_limnaeus                       --449999999999999999999999999----------53222----
+Capra_hircus                                  ---59999999999999999999999999----------64333--22
+Heterocephalus_glaber                         --449999999999999999999999999----------64333--22
+Catharus_ustulatus                            ---59999999999999999999999999-------------11--11
+Anolis_carolinensis                           ---59999999999999999999999999----------42111--00
+Anser_cygnoides_domesticus                    --449999999999999999999999999-------------11--11
+Anas_platyrhynchos                            --449999999999999999999999999-------------11--11
+Anarrhichthys_ocellatus                       ---59999999999999999999999999----------42222----
+Amphiprion_ocellaris                          ---59999999999999999999999999--------------0-000
+Marmota_flaviventris                          ---59999999999999999999999999----------65433--22
+Onychomys_torridus                            ---59999999999999999999999999----------64333--22
+Oncorhynchus_kisutch                          ---59999999999999999999999999----------64333--21
+Falco_rusticolus                              ---59999999999999999999999999-------------11--11
+Syngnathus_acus                               00049999999999999999999999999-------0---3222--1-
+Suricata_suricatta                            ---59999999999999999999999999----------64333--22
+Pungitius_pungitius                           ---59999999999999999999999999----------42211----
+Kryptolebias_marmoratus                       --449999999999999999999999999----------53322----
+Delphinapterus_leucas                         ---59999999999999999999999999----------65433--22
+Castor_canadensis                             ---59999999999999999999999999----------65433--22
+Sander_lucioperca                             ---59999999999999999999999999-------0000--11----
+Cyprinodon_tularosa                           ---59999999999999999999999999---------011111----
+Carlito_syrichta                              ---59999999999999999999999999----------65433--22
+Neolamprologus_brichardi                      --449999999999999999999999999---------001111----
+Crocodylus_porosus                            ---59999999999999999999999999----------65433--22
+Corapipo_altera                               --449999999999999999999999999-------------21--11
+Acipenser_ruthenus                            --449999999999999999999999999-------00000011----
+Labrus_bergylta                               ---59999999999999999999999999----------43222----
+Lacerta_agilis                                ---59999999999999999999999999----------42111--00
+Pyrgilauda_ruficollis                         ---59999999999999999999999999-------------22--11
+Eurypyga_helias                               ---59999999999999999999999999-------------11--11
+Xiphophorus_hellerii                          --449999999999999999999999999-----------1222--11
+Saimiri_boliviensis_boliviensis               ---59999999999999999999999999----------64333--22
+Ovis_aries                                    --449999999999999999999999999----------65433--22
+Onychostruthus_taczanowskii                   ---59999999999999999999999999-------------22--11
+Micropterus_salmoides                         ---59999999999999999999999999----------42222----
+Thamnophis_sirtalis                           --449999999999999999999999997----------32111--10
+Scyliorhinus_canicula                         --449999999999999999999999999----------653330011
+Manacus_vitellinus                            --449999999999999999999999999-------------21--11
+Mastomys_coucha                               ---59999999999999999999999999----------64333--22
+Puma_yagouaroundi                             ---59999999999999999999999999----------65433--22
+Leptonychotes_weddellii                       --449999999999999999999999999----------65433--22
+Nomascus_leucogenys                           ---59999999999999999999999999----------65433--22
+Haliaeetus_leucocephalus                      --449999999999999999999999999-------------11--11
+Falco_cherrug                                 --449999999999999999999999999-------------11--11
+Ictalurus_punctatus                           ---59999999999999999999999999----------54322--11
+Felis_catus                                   ---59999999999999999999999999----------65433--22
+Polypterus_senegalus                          --449999999999999999999999999-----00----1112--22
+Eumetopias_jubatus                            --449999999999999999999999999----------65433--22
+Astyanax_mexicanus                            --449999999999999999999999999----------54333--21
+Dromaius_novaehollandiae                      ---59999999999999999999999999----------64332--11
+Notolabrus_celidotus                          ---59999999999999999999999999----------43222----
+Rhinopithecus_bieti                           --449999999999999999999999999----------65433--22
+Sinocyclocheilus_grahami                      --449999999999999999999999999----------653330011
+Rousettus_aegyptiacus                         ---59999999999999999999999999----------65433--22
+Apaloderma_vittatum                           ---59999999999999999999999999-------------11--11
+Bison_bison_bison                             ---59999999999999999999999999----------65433--22
+Crotalus_tigris                               -0029999999999999999999999997----------32211--11
+Cottoperca_gobio                              ---59999999999999999999999999-------0--00111----
+Bos_indicus_x_Bos_taurus                      --449999999999999999999999999----------65433--22
+Rattus_norvegicus                             ---59999999999999999999999999----------64333--22
+Orycteropus_afer_afer                         --449999999999999999999999999----------65433--22
+Phasianus_colchicus                           ---59999999999999999999999999-------------11--11
+Podarcis_muralis                              --449999999999999999999999999----------42111--00
+Polyodon_spathula                             --449999999999999999999999999----------65433--22
+Pogona_vitticeps                              --449999999999999999999999997----------32111--00
+Mauremys_reevesii                             ---59999999999999999999999999----------64332--22
+Meleagris_gallopavo                           ---59999999999999999999999999-------------11--11
+Tachyglossus_aculeatus                        ---59999999999999999999999999----------64322--22
+Trichechus_manatus_latirostris                ---59999999999999999999999996-----------2233--22
+Seriola_lalandi_dorsalis                      ---59999999999999999999999999----------43222----
+Physeter_catodon                              --449999999999999999999999999----------65433--22
+Oncorhynchus_nerka                            --449999999999999999999999999----------64333--21
+Rattus_rattus                                 --449999999999999999999999999----------64333--22
+Athene_cunicularia                            ---59999999999999999999999999-------------11--11
+Manis_pentadactyla                            --449999999999999999999999999----------65433--22
+Lipotes_vexillifer                            ---59999999999999999999999999----------65433--22
+Camelus_dromedarius                           ---59999999999999999999999999----------65433--22
+Mustela_putorius_furo                         ---59999999999999999999999999----------64322----
+Cyanistes_caeruleus                           ---59999999999999999999999999-------------11--11
+Geospiza_fortis                               ---59999999999999999999999999-------------11--11
+Galeopterus_variegatus                        ---59999999999999999999999999----------65433--22
+Poecilia_reticulata                           ---59999999999999999999999999----------32111----
+Empidonax_traillii                            ---59999999999999999999999999-------------21--11
+Antrostomus_carolinensis                      ---59999999999999999999999999-------------11--11
+Alligator_sinensis                            ---59999999999999999999999999----------65433--22
+Anguilla_anguilla                             ---59999999999999999999999999-----00----2222--22
+Amblyraja_radiata                             --449999999999999999999999999----------643220011
+Trachemys_scripta_elegans                     ---59999999999999999999999999----------65433--22
+Enhydra_lutris_kenyoni                        --449999999999999999999999999----------64322----
+Lates_calcarifer                              ---59999999999999999999999999----------42221----
+Salmo_salar                                   ---59999999999999999999999999----------64333--21
+Thalassophryne_amazonica                      ---59999999999999999999999999--00000----0000----
+Myotis_brandtii                               --449999999999999999999999999----------65433--22
+Toxotes_jaculatrix                            ---59999999999999999999999999----------42221----
+Otolemur_garnettii                            --449999999999999999999999999----------65433--22
+Tauraco_erythrolophus                         --449999999999999999999999999----------43222----
+Sturnira_hondurensis                          ---59999999999999999999999999----------65433--22
+Acinonyx_jubatus                              --449999999999999999999999999----------65433--22
+Acanthopagrus_latus                           ---59999999999999999999999999----------42221----
+Acanthochromis_polyacanthus                   --449999999999999999999999999--------------00011
+Chanos_chanos                                 ---59999999999999999999999999-------00000011----
+Vulpes_vulpes                                 ---59999999999999999999999999----------54322----
+Nannospalax_galili                            ---59999999999999999999999999----------65433--22
+Pteropus_alecto                               ---59999999999999999999999999----------65433--22
+Hyaena_hyaena                                 ---59999999999999999999999999----------54433--22
+Pan_paniscus                                  ---59999999999999999999999999----------65433--22
+Apteryx_mantelli_mantelli                     ---59999999999999999999999999----------64433--22
+Gekko_japonicus                               ---59999999999999999999999996-----------1111----
+Struthio_camelus_australis                    ---59999999999999999999999999----------64332--22
+Pygocentrus_nattereri                         --449999999999999999999999999----------54333--22
+Ailuropoda_melanoleuca                        ---59999999999999999999999999----------65433--22
+Gadus_morhua                                  --449999999999999999999999999----------43222----
+Papio_anubis                                  ---59999999999999999999999999----------65433--22
+Molothrus_ater                                ---59999999999999999999999999-------------11--11
+Sapajus_apella                                ---59999999999999999999999999----------64333--22
+Pygoscelis_adeliae                            ---59999999999999999999999999-------------11--11
+Python_bivittatus                             ---59999999999999999999999997----------32111--00
+Equus_caballus                                ---59999999999999999999999999----------65433--22
+Pteropus_giganteus                            ---59999999999999999999999999----------65433--22
+Xiphophorus_couchianus                        --449999999999999999999999999---------011111----
+Mus_musculus                                  ---59999999999999999999999999----------64333--22
+Erinaceus_europaeus                           ---59999999999999999999999999----------65433--22
+Lagenorhynchus_obliquidens                    ---59999999999999999999999999----------65433--22
+Lepisosteus_oculatus                          ---59999999999999999999999999----------64332--21
+Choloepus_didactylus                          ---59999999999999999999999999----------65433--22
+Erpetoichthys_calabaricus                     -0029999999999999999999999999----------54322--11
+Passer_montanus                               ---59999999999999999999999999-------------22--11
+Clupea_harengus                               ---59999999999999999999999999-------00000111----
+Gorilla_gorilla_gorilla                       ---59999999999999999999999999----------65433--22
+Globicephala_melas                            ---59999999999999999999999999----------65433--22
+Camarhynchus_parvulus                         ---59999999999999999999999999-------------11--11
+Latimeria_chalumnae                           --449999999999999999999999999----------65333--22
+Chiroxiphia_lanceolata                        --449999999999999999999999999-------------21--11
+Aquila_chrysaetos_chrysaetos                  --449999999999999999999999999----------43222----
+Sinocyclocheilus_rhinocerous                  --449999999999999999999999999----------653330011
+Sphaeramia_orbicularis                        ---59999999999999999999999999----------43222----
+Sorex_araneus                                 --449999999999999999999999999----------64333--22
+Hippocampus_comes                             --449999999999999999999999999-------0---3222--1-
+Panthera_tigris_altaica                       ---59999999999999999999999999----------64333--22
+Rhinopithecus_roxellana                       --449999999999999999999999999----------65433--22
+cons                                          004599999999999999999999999990000000000543220022
+
+
+Oreochromis_niloticus                         -234579999999999999999999983--
+Tursiops_truncatus                            -34457999999999999999999999975
+Ursus_arctos_horribilis                       -344579999999999999999999984--
+Megalops_cyprinoides                          -33457999999999999999999999975
+Aotus_nancymaae                               -344579999999999999999999984--
+Gopherus_evgoodei                             -33457999999999999999999999975
+Monodon_monoceros                             -344579999999999999999999984--
+Monodelphis_domestica                         -34557999999999999999999999975
+Apteryx_rowi                                  -334579999999999999999999984--
+Tyto_alba_alba                                -22235899999999999999999999975
+Trichosurus_vulpecula                         -345579999999999999999999984--
+Myripristis_murdjan                           -22347999999999999999999999975
+Bos_taurus                                    -344579999999999999999999984--
+Rhincodon_typus                               022346999999999999999999960---
+Myotis_lucifugus                              -344579999999999999999999984--
+Parus_major                                   -12235899999999999999999999975
+Eptesicus_fuscus                              -34457999999999999999999999975
+Oncorhynchus_mykiss                           0234579999999999999999999984--
+Phalacrocorax_carbo                           -12235899999999999999999999975
+Pseudonaja_textilis                           ------799999999999999999999975
+Protobothrops_mucrosquamatus                  ------7899999999999999999984--
+Pantherophis_guttatus                         ------799999999999999999999975
+Tupaia_chinensis                              -344579999999999999999999984--
+Hylobates_moloch                              -34457999999999999999999999975
+Marmota_marmota_marmota                       -34457999999999999999999999975
+Lynx_canadensis                               -345579999999999999999999984--
+Tachysurus_fulvidraco                         0234579999999999999999999984--
+Serinus_canaria                               -12235899999999999999999999975
+Peromyscus_maniculatus_bairdii                -34557999999999999999999999975
+Zalophus_californianus                        -34557999999999999999999999975
+Neopelma_chrysocephalum                       -22345899999999999999999999975
+Falco_peregrinus                              -222358999999999999999999984--
+Danio_rerio                                   0234579999999999999999999984--
+Canis_lupus_dingo                             -23457999999999999999999999975
+Sebastes_umbrosus                             -23456999999999999999999999975
+Cariama_cristata                              -22235899999999999999999999975
+Cebus_imitator                                -344579999999999999999999984--
+Ceratotherium_simum_simum                     -344579999999999999999999984--
+Cavia_porcellus                               -344579999999999999999999984--
+Cercocebus_atys                               -334579999999999999999999984--
+Pterocles_gutturalis                          -22235899999999999999999999975
+Pseudopodoces_humilis                         -122358999999999999999999984--
+Desmodus_rotundus                             -34457999999999999999999999975
+Balaenoptera_acutorostrata_scammoni           -34457999999999999999999999975
+Hippoglossus_hippoglossus                     -22346999999999999999999999975
+Peromyscus_leucopus                           -34557999999999999999999999975
+Oryzias_latipes                               -234579999999999999999999983--
+Callorhinus_ursinus                           -34557999999999999999999999975
+Calypte_anna                                  -22235899999999999999999999975
+Callorhinchus_milii                           -12347999999999999999999999765
+Chlorocebus_sabaeus                           -344579999999999999999999984--
+Chinchilla_lanigera                           -34457999999999999999999999975
+Carcharodon_carcharias                        -12346999999999999999999960---
+Arvicanthis_niloticus                         -34557999999999999999999999975
+Myotis_davidii                                -344579999999999999999999984--
+Phocoena_sinus                                -34457999999999999999999999975
+Colobus_angolensis_palliatus                  -344579999999999999999999984--
+Calidris_pugnax                               -23346899999999999999999999975
+Pan_troglodytes                               -34457999999999999999999999975
+Canis_lupus_familiaris                        -23457999999999999999999999975
+Epinephelus_lanceolatus                       -234469999999999999999999984--
+Hippoglossus_stenolepis                       -22346999999999999999999999975
+Dermochelys_coriacea                          -334579999999999999999999984--
+Phyllostomus_discolor                         -34567999999999999999999999975
+Archocentrus_centrarchus                      -11235999999999999999999999765
+Phoca_vitulina                                -34557999999999999999999999975
+Mirounga_leonina                              -34557999999999999999999999975
+Motacilla_alba_alba                           -12235899999999999999999999975
+Carassius_auratus                             0233569999999999999999999984--
+Octodon_degus                                 -34457999999999999999999999975
+Cyprinodon_variegatus                         -234569999999999999999999983--
+Corvus_brachyrhynchos                         -11234899999999999999999999975
+Molossus_molossus                             023457999999999999999999999975
+Jaculus_jaculus                               -34567999999999999999999999975
+Arvicola_amphibius                            -345579999999999999999999984--
+Pongo_abelii                                  -34457999999999999999999999975
+Gasterosteus_aculeatus_aculeatus              -23457999999999999999999999975
+Sinocyclocheilus_anshuiensis                  023457999999999999999999999975
+Pundamilia_nyererei                           -234579999999999999999999983--
+Columba_livia                                 -12235899999999999999999999975
+Ochotona_princeps                             -34457999999999999999999999875
+Oreochromis_aureus                            -234579999999999999999999983--
+Opisthocomus_hoazin                           -12235899999999999999999999975
+Orcinus_orca                                  -344579999999999999999999984--
+Scophthalmus_maximus                          -234579999999999999999999984--
+Nestor_notabilis                              -12235899999999999999999999975
+Lontra_canadensis                             -234579999999999999999999984--
+Mus_pahari                                    -34557999999999999999999999975
+Bos_mutus                                     -34457999999999999999999999975
+Perca_flavescens                              -234579999999999999999999984--
+Oryctolagus_cuniculus                         -23457999999999999999999999975
+Myotis_myotis                                 -344579999999999999999999984--
+Neomonachus_schauinslandi                     -34557999999999999999999999975
+Salvelinus_namaycush                          023457999999999999999999999975
+Salvelinus_sp._IW2-2015                       0234579999999999999999999984--
+Astatotilapia_calliptera                      -234579999999999999999999983--
+Acanthisitta_chloris                          -12235899999999999999999999975
+Elephantulus_edwardii                         -345579999999999999999999984--
+Esox_lucius                                   -344579999999999999999999984--
+Artibeus_jamaicensis                          -345679999999999999999999984--
+Miniopterus_natalensis                        -34457999999999999999999999975
+Colossoma_macropomum                          023457999999999999999999999975
+Callithrix_jacchus                            -344579999999999999999999984--
+Pteropus_vampyrus                             -34457999999999999999999999975
+Xiphophorus_maculatus                         --33469999999999999999999983--
+Strigops_habroptila                           -122358999999999999999999984--
+Pimephales_promelas                           -0----99999999999999999999940-
+Simochromis_diagramma                         -234579999999999999999999983--
+Charadrius_vociferus                          -22235899999999999999999999975
+Nothoprocta_perdicaria                        -22346999999999999999999999975
+Mesitornis_unicolor                           -22346899999999999999999999975
+Thamnophis_elegans                            ------799999999999999999999975
+Dipodomys_ordii                               -34457999999999999999999999975
+Homo_sapiens                                  -34457999999999999999999999975
+Hipposideros_armiger                          -344579999999999999999999984--
+Hirundo_rustica                               -122358999999999999999999984--
+Camelus_bactrianus                            -34457999999999999999999999975
+Boleophthalmus_pectinirostris                 -234579999999999999999999984--
+Aptenodytes_forsteri                          -22235899999999999999999999975
+Tinamus_guttatus                              -223469999999999999999999984--
+Haplochromis_burtoni                          -234579999999999999999999983--
+Pelodiscus_sinensis                           -344579999999999999999999984--
+Pipistrellus_kuhlii                           -344579999999999999999999984--
+Pipra_filicauda                               -22345899999999999999999999975
+Phascolarctos_cinereus                        -234579999999999999999999984--
+Melopsittacus_undulatus                       -122358999999999999999999984--
+Oryx_dammah                                   -344579999999999999999999984--
+Camelus_ferus                                 -344579999999999999999999984--
+Salmo_trutta                                  -234579999999999999999999984--
+Coturnix_japonica                             -12246999999999999999999999975
+Nipponia_nippon                               -222358999999999999999999984--
+Trachypithecus_francoisi                      -34457999999999999999999999975
+Mustela_erminea                               -23457999999999999999999999975
+Rhinatrema_bivittatum                         -33457999999999999999999999875
+Oxyura_jamaicensis                            -12235899999999999999999999975
+Microcebus_murinus                            -34457999999999999999999999975
+Equus_przewalskii                             -34457999999999999999999999975
+Mus_caroli                                    -34557999999999999999999999975
+Cygnus_olor                                   -12235899999999999999999999975
+Sarcophilus_harrisii                          -34557999999999999999999999975
+Loxodonta_africana                            -34457999999999999999999999975
+Periophthalmus_magnuspinnatus                 -234579999999999999999999984--
+Picoides_pubescens                            -12235899999999999999999999975
+Gouania_willdenowi                            -234579999999999999999999983--
+Sus_scrofa                                    -344579999999999999999999984--
+Bubalus_bubalis                               -34457999999999999999999999975
+Scleropages_formosus                          0334579999999999999999999983--
+Zootoca_vivipara                              ------899999999999999999999975
+Zonotrichia_albicollis                        -12235899999999999999999999975
+Gallus_gallus                                 -12246999999999999999999999975
+Ornithorhynchus_anatinus                      -334579999999999999999999984--
+Cuculus_canorus                               -22235899999999999999999999975
+Chelonoidis_abingdonii                        -33457999999999999999999999975
+Corvus_cornix_cornix                          -11234899999999999999999999975
+Alligator_mississippiensis                    -33457999999999999999999999975
+Colius_striatus                               -122348999999999999999999984--
+Ictidomys_tridecemlineatus                    -344579999999999999999999984--
+Ursus_maritimus                               -34457999999999999999999999975
+Vombatus_ursinus                              -34557999999999999999999999975
+Rhinolophus_ferrumequinum                     -34457999999999999999999999975
+Etheostoma_cragini                            -23456999999999999999999999975
+Urocitellus_parryii                           -344579999999999999999999984--
+Xenopus_tropicalis                            -33457999999999999999999999975
+Bos_indicus                                   -344579999999999999999999984--
+Odobenus_rosmarus_divergens                   -345579999999999999999999984--
+Buceros_rhinoceros_silvestris                 -22345899999999999999999999975
+Grammomys_surdaster                           -345579999999999999999999984--
+Paralichthys_olivaceus                        -22345999999999999999999999975
+Corvus_moneduloides                           -11234899999999999999999999975
+Oncorhynchus_tshawytscha                      0234579999999999999999999984--
+Mesocricetus_auratus                          -34557999999999999999999999975
+Larimichthys_crocea                           -23346999999999999999999999875
+Maylandia_zebra                               -23457999999999999999999999765
+Condylura_cristata                            -344579999999999999999999984--
+Cricetulus_griseus                            -345579999999999999999999984--
+Cyprinus_carpio                               0223569999999999999999999984--
+Ochotona_curzoniae                            -344579999999999999999999983--
+Gavialis_gangeticus                           -33457999999999999999999999975
+Ficedula_albicollis                           -12235899999999999999999999975
+Geotrypetes_seraphini                         -344579999999999999999999984--
+Chrysochloris_asiatica                        -234579999999999999999999984--
+Chrysemys_picta_bellii                        -334579999999999999999999984--
+Macaca_mulatta                                -34457999999999999999999999975
+Microtus_ochrogaster                          -345579999999999999999999984--
+Talpa_occidentalis                            -344579999999999999999999984--
+Balaenoptera_musculus                         -344579999999999999999999984--
+Notechis_scutatus                             ------7999999999999999999984--
+Odocoileus_virginianus_texanus                -344579999999999999999999984--
+Leptosomus_discolor                           -22235899999999999999999999975
+Paramormyrops_kingsleyae                      0334579999999999999999999983--
+Propithecus_coquereli                         -34457999999999999999999999975
+Macaca_nemestrina                             -344579999999999999999999984--
+Microcaecilia_unicolor                        -34457999999999999999999999975
+Electrophorus_electricus                      0334579999999999999999999984--
+Theropithecus_gelada                          -34457999999999999999999999975
+Lonchura_striata_domestica                    -22345899999999999999999999975
+Denticeps_clupeoides                          -3345799999999999999999999940-
+Haliaeetus_albicilla                          -22235899999999999999999999975
+Chaetura_pelagica                             -22235899999999999999999999975
+Panthera_pardus                               -344579999999999999999999984--
+Lepidothrix_coronata                          -223458999999999999999999984--
+Fukomys_damarensis                            -34457999999999999999999999975
+Pangasianodon_hypophthalmus                   0234579999999999999999999984--
+Mandrillus_leucophaeus                        -344579999999999999999999984--
+Manis_javanica                                -344579999999999999999999984--
+Macaca_fascicularis                           -34457999999999999999999999975
+Meriones_unguiculatus                         -345579999999999999999999984--
+Merops_nubicus                                -22235899999999999999999999975
+Echeneis_naucrates                            -22345999999999999999999999975
+Dasypus_novemcinctus                          -34557999999999999999999999975
+Egretta_garzetta                              -222358999999999999999999984--
+Echinops_telfairi                             -334579999999999999999999984--
+Terrapene_carolina_triunguis                  -33457999999999999999999999975
+Chelonia_mydas                                -334579999999999999999999984--
+Sturnus_vulgaris                              -12235899999999999999999999975
+Halichoerus_grypus                            -345579999999999999999999984--
+Numida_meleagris                              -22346999999999999999999999975
+Equus_asinus                                  -344579999999999999999999984--
+Oncorhynchus_keta                             023457999999999999999999999975
+Piliocolobus_tephrosceles                     -34457999999999999999999999975
+Cygnus_atratus                                -122358999999999999999999984--
+Rana_temporaria                               022357999999999999999999999975
+Puma_concolor                                 -345579999999999999999999984--
+Vicugna_pacos                                 -34457999999999999999999999975
+Neophocaena_asiaeorientalis_asiaeorientalis   -34457999999999999999999999975
+Aythya_fuligula                               -12235899999999999999999999975
+Austrofundulus_limnaeus                       -223469999999999999999999984--
+Capra_hircus                                  -34457999999999999999999999975
+Heterocephalus_glaber                         -344579999999999999999999984--
+Catharus_ustulatus                            -12235899999999999999999999975
+Anolis_carolinensis                           ------799999999999999999999975
+Anser_cygnoides_domesticus                    -122358999999999999999999984--
+Anas_platyrhynchos                            -122358999999999999999999984--
+Anarrhichthys_ocellatus                       -23456999999999999999999999975
+Amphiprion_ocellaris                          012335999999999999999999999765
+Marmota_flaviventris                          -34457999999999999999999999975
+Onychomys_torridus                            -34557999999999999999999999975
+Oncorhynchus_kisutch                          023457999999999999999999999975
+Falco_rusticolus                              -22235899999999999999999999975
+Syngnathus_acus                               -23457999999999999999999960---
+Suricata_suricatta                            -34557999999999999999999999975
+Pungitius_pungitius                           -23457999999999999999999999975
+Kryptolebias_marmoratus                       -2234699999999999999999999940-
+Delphinapterus_leucas                         -34457999999999999999999999975
+Castor_canadensis                             -34457999999999999999999999975
+Sander_lucioperca                             -23457999999999999999999999975
+Cyprinodon_tularosa                           -23456999999999999999999999765
+Carlito_syrichta                              -34457999999999999999999999975
+Neolamprologus_brichardi                      -234579999999999999999999983--
+Crocodylus_porosus                            -33457999999999999999999999975
+Corapipo_altera                               -223458999999999999999999984--
+Acipenser_ruthenus                            -234579999999999999999999984--
+Labrus_bergylta                               -23446999999999999999999999975
+Lacerta_agilis                                ------899999999999999999999975
+Pyrgilauda_ruficollis                         -22345899999999999999999999975
+Eurypyga_helias                               -22235899999999999999999999975
+Xiphophorus_hellerii                          --33469999999999999999999983--
+Saimiri_boliviensis_boliviensis               -34457999999999999999999999975
+Ovis_aries                                    -344579999999999999999999984--
+Onychostruthus_taczanowskii                   -22345899999999999999999999975
+Micropterus_salmoides                         -23456999999999999999999999975
+Thamnophis_sirtalis                           ------7999999999999999999984--
+Scyliorhinus_canicula                         -122469999999999999999999983--
+Manacus_vitellinus                            -223458999999999999999999984--
+Mastomys_coucha                               -34557999999999999999999999975
+Puma_yagouaroundi                             -34557999999999999999999999975
+Leptonychotes_weddellii                       -345579999999999999999999984--
+Nomascus_leucogenys                           -34457999999999999999999999975
+Haliaeetus_leucocephalus                      -222358999999999999999999984--
+Falco_cherrug                                 -222358999999999999999999984--
+Ictalurus_punctatus                           023457999999999999999999999975
+Felis_catus                                   -34557999999999999999999999975
+Polypterus_senegalus                          -3346799999999999999999999940-
+Eumetopias_jubatus                            -345579999999999999999999984--
+Astyanax_mexicanus                            0334579999999999999999999983--
+Dromaius_novaehollandiae                      -22346999999999999999999999975
+Notolabrus_celidotus                          -23457999999999999999999999975
+Rhinopithecus_bieti                           -344579999999999999999999984--
+Sinocyclocheilus_grahami                      0234579999999999999999999984--
+Rousettus_aegyptiacus                         -34457999999999999999999999975
+Apaloderma_vittatum                           -22346999999999999999999999975
+Bison_bison_bison                             -34457999999999999999999999975
+Crotalus_tigris                               ------7899999999999999999984--
+Cottoperca_gobio                              -22446999999999999999999999975
+Bos_indicus_x_Bos_taurus                      -344579999999999999999999984--
+Rattus_norvegicus                             -34557999999999999999999999975
+Orycteropus_afer_afer                         -345579999999999999999999984--
+Phasianus_colchicus                           -12246999999999999999999999975
+Podarcis_muralis                              ------8999999999999999999984--
+Polyodon_spathula                             -334579999999999999999999984--
+Pogona_vitticeps                              ------8999999999999999999984--
+Mauremys_reevesii                             -33457999999999999999999999975
+Meleagris_gallopavo                           -12246999999999999999999999975
+Tachyglossus_aculeatus                        -33457999999999999999999999975
+Trichechus_manatus_latirostris                -34457999999999999999999999975
+Seriola_lalandi_dorsalis                      -22235999999999999999999999975
+Physeter_catodon                              -344579999999999999999999984--
+Oncorhynchus_nerka                            0234579999999999999999999984--
+Rattus_rattus                                 -345579999999999999999999984--
+Athene_cunicularia                            -22235899999999999999999999975
+Manis_pentadactyla                            -344579999999999999999999984--
+Lipotes_vexillifer                            -34457999999999999999999999975
+Camelus_dromedarius                           -34457999999999999999999999975
+Mustela_putorius_furo                         -23457999999999999999999999975
+Cyanistes_caeruleus                           -12235899999999999999999999975
+Geospiza_fortis                               -12235899999999999999999999975
+Galeopterus_variegatus                        -34457999999999999999999999975
+Poecilia_reticulata                           -23346999999999999999999999765
+Empidonax_traillii                            -22345899999999999999999999975
+Antrostomus_carolinensis                      -22235899999999999999999999975
+Alligator_sinensis                            -33457999999999999999999999975
+Anguilla_anguilla                             -34457999999999999999999999975
+Amblyraja_radiata                             -122468999999999999999999983--
+Trachemys_scripta_elegans                     -33457999999999999999999999975
+Enhydra_lutris_kenyoni                        -234579999999999999999999984--
+Lates_calcarifer                              -22345999999999999999999999975
+Salmo_salar                                   023457999999999999999999999975
+Thalassophryne_amazonica                      ------999999999999999999999875
+Myotis_brandtii                               -344579999999999999999999984--
+Toxotes_jaculatrix                            -22345999999999999999999999975
+Otolemur_garnettii                            -344579999999999999999999984--
+Tauraco_erythrolophus                         --22358999999999999999999984--
+Sturnira_hondurensis                          -34567999999999999999999999975
+Acinonyx_jubatus                              -345579999999999999999999984--
+Acanthopagrus_latus                           -22345999999999999999999999875
+Acanthochromis_polyacanthus                   -223469999999999999999999983--
+Chanos_chanos                                 -34457999999999999999999999975
+Vulpes_vulpes                                 -23457999999999999999999999975
+Nannospalax_galili                            -34567999999999999999999999975
+Pteropus_alecto                               -34457999999999999999999999975
+Hyaena_hyaena                                 -34557999999999999999999999975
+Pan_paniscus                                  -34457999999999999999999999975
+Apteryx_mantelli_mantelli                     -33457999999999999999999999975
+Gekko_japonicus                               ---224799999999999999999999975
+Struthio_camelus_australis                    -23456999999999999999999999975
+Pygocentrus_nattereri                         0334569999999999999999999984--
+Ailuropoda_melanoleuca                        -34457999999999999999999999975
+Gadus_morhua                                  -234579999999999999999999983--
+Papio_anubis                                  -34457999999999999999999999975
+Molothrus_ater                                -12235899999999999999999999975
+Sapajus_apella                                -34457999999999999999999999975
+Pygoscelis_adeliae                            -22235899999999999999999999975
+Python_bivittatus                             ------799999999999999999999975
+Equus_caballus                                -34457999999999999999999999975
+Pteropus_giganteus                            -34457999999999999999999999975
+Xiphophorus_couchianus                        --33469999999999999999999983--
+Mus_musculus                                  -34557999999999999999999999975
+Erinaceus_europaeus                           -34457999999999999999999999765
+Lagenorhynchus_obliquidens                    -34457999999999999999999999975
+Lepisosteus_oculatus                          033457999999999999999999999975
+Choloepus_didactylus                          -34457999999999999999999999975
+Erpetoichthys_calabaricus                     0334579999999999999999999984--
+Passer_montanus                               -22345899999999999999999999975
+Clupea_harengus                               -33467999999999999999999999975
+Gorilla_gorilla_gorilla                       -34457999999999999999999999975
+Globicephala_melas                            -34457999999999999999999999975
+Camarhynchus_parvulus                         -12235899999999999999999999975
+Latimeria_chalumnae                           0222369999999999999999999984--
+Chiroxiphia_lanceolata                        -223458999999999999999999984--
+Aquila_chrysaetos_chrysaetos                  --22358999999999999999999984--
+Sinocyclocheilus_rhinocerous                  0234579999999999999999999984--
+Sphaeramia_orbicularis                        -23346999999999999999999999975
+Sorex_araneus                                 -344579999999999999999999984--
+Hippocampus_comes                             -334579999999999999999999983--
+Panthera_tigris_altaica                       -34457999999999999999999999975
+Rhinopithecus_roxellana                       -344579999999999999999999984--
+cons                                          023456999999999999999999999465
+
+
+
+
+

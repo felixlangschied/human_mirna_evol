@@ -1,0 +1,17 @@
+logging job: Hsa-Mir-30-P1c.aln on Fri Nov 19 16:20:50 2021
+clustal version: 2.1
+seq type: DNA
+numseqs: 366
+seqlen longest: 78
+seqlen shortest: 78
+seqlen avg: 78.00
+seqlen std-dev: 0.00
+seqlen median: 78.00
+md5: disabled
+aln len: 89
+aln pw-id highest: 1.00
+aln pw-id lowest: 0.70
+aln pw-id avg: 0.88
+aln pw-id std-dev: 0.05
+aln pw-id median: 0.87
+cmdline non-default arg: -seqnos=on
