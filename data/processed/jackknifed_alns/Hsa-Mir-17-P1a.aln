@@ -1,0 +1,802 @@
+>Petromyzon_marinus <unknown description>
+--CCAAGTGCTGATGAGGTATGCGT-ATCTTCTGCATAAGCACTTTA-
+>Electrophorus_electricus <unknown description>
+---CAAGTGCTTAGGAGGTACGT-T-ACTGTCTGCATAGGCACTTTA-
+>Astyanax_mexicanus <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T-TATTTCTGCATAGGCACTTAA-
+>Pygocentrus_nattereri <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T-CATTTCTGCATAGGCACTTAA-
+>Polyodon_spathula <unknown description>
+---CAAGTGCTTAGGAGGTATT--T-GTTACCTGCATAGGCACTTTA-
+>Rana_temporaria <unknown description>
+--CCAAGTGCTTAGGAGGTATTT-CAGACACCTGCATAGGCACTTTA-
+>Nanorana_parkeri <unknown description>
+--CCAAGTGCTTAGGAGGTATTT-CAGACACCTGCATAGGCACTTTA-
+>Bufo_bufo <unknown description>
+---CAAGTGCTTAGGAGGTATTT-TAGACACCTGCATAGGCACTTTA-
+>Polypterus_senegalus <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T--TGCCCTGCATAGGCACTTTA-
+>Erpetoichthys_calabaricus <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T--TGCCCTGCATAGGCACTTTA-
+>Esox_lucius <unknown description>
+---CAAGTGCTTAGGAGGTATAC-T-GGATCCTGCATAGGCACTTTA-
+>Scleropages_formosus <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T-AAATTCTGCATAGGCACTTTA-
+>Syngnathus_acus <unknown description>
+TGTCAAGTGCTTAGGAGGTATTT-T-TAATCCTGCATAGGCACTT---
+>Etheostoma_spectabile <unknown description>
+TGTCAAGTGCTTAGGAGGTATTT-T-TAATTCTGCATAGGCACTT---
+>Perca_fluviatilis <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T-TAATTCTGCATAGGCACTTCA-
+>Etheostoma_cragini <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T-TAATTCTGCATAGGCACTTCA-
+>Colossoma_macropomum <unknown description>
+-----AGTGCTTAGGAGGTATAT-T-GAACTCTGCATAGGCACTTTAA
+>Pangasianodon_hypophthalmus <unknown description>
+---CAAGTGCTTAGGAGGTATAT-A-AAATTCTGCATAGGCACTTTA-
+>Ictalurus_punctatus <unknown description>
+---CAAGTGCTTAGGAGGTATAT-A-AAATTCTGCATAGGCACTTTA-
+>Betta_splendens <unknown description>
+TGCCAAGTGCTTAGGAGGTATGT-T-CAATCCTGCATAGGCACTT---
+>Tachysurus_fulvidraco <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-AAATCCTGCATAGGCACTTTA-
+>Nematolebias_whitei <unknown description>
+TGCCAAGTGCTTAGGAGGTATAT-T-AAATCCTGCATAGGCACTT---
+>Simochromis_diagramma <unknown description>
+TGCCAAGTGCTTAGGAGGTATAT-T-GAATCCTGCATAGGCACTT---
+>Neolamprologus_brichardi <unknown description>
+TGCCAAGTGCTTAGGAGGTATAT-T-GAATCCTGCATAGGCACTT---
+>Oreochromis_niloticus <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-GAATCCTGCATAGGCACTTCA-
+>Haplochromis_burtoni <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-GAATCCTGCATAGGCACTTCA-
+>Oreochromis_aureus <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-GAATCCTGCATAGGCACTTCA-
+>Maylandia_zebra <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-GAATCCTGCATAGGCACTTCA-
+>Pundamilia_nyererei <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-GAATCCTGCATAGGCACTTCA-
+>Astatotilapia_calliptera <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-GAATCCTGCATAGGCACTTCA-
+>Denticeps_clupeoides <unknown description>
+TGCCAAGTGCTTAGGAGGTATAT-T-TAATTCTGCATAGGCACTT---
+>Mastacembelus_armatus <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-TAATTCTGCATAGGCACTTCA-
+>Pimephales_promelas <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T-TAATTCTGCATAGGCACTTTA-
+>Carassius_auratus <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Sinocyclocheilus_grahami <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Cyprinus_carpio <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Sinocyclocheilus_anshuiensis <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Sinocyclocheilus_rhinocerous <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Danio_rerio <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Lepisosteus_oculatus <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-GGATTCTGCATAGGCACTTTA-
+>Oncorhynchus_mykiss <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GAATTCTGCATAGGCACTTTA-
+>Oncorhynchus_kisutch <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GAATTCTGCATAGGCACTTTA-
+>Oncorhynchus_tshawytscha <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GAATTCTGCATAGGCACTTTA-
+>Salvelinus_namaycush <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GAATTCTGCATAGGCACTTTA-
+>Clupea_harengus <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Chanos_chanos <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Megalops_cyprinoides <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Anguilla_anguilla <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-GAATTCTGCATAGGCACTTTA-
+>Austrofundulus_limnaeus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-C-TGATCCTGCATAGGCACTTCA-
+>Thalassophryne_amazonica <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-C-TGATCCTGCATAGGCACTT---
+>Kryptolebias_marmoratus <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-C-TGATCCTGCATAGGCACTTCA-
+>Toxotes_jaculatrix <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-TTATCCTGCATAGGCACTT---
+>Boleophthalmus_pectinirostris <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-TCAACCTGCATAGGCACTT---
+>Cynoglossus_semilaevis <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-CAATCCTGCATAGGCACTTCA-
+>Anabas_testudineus <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-CAATCCTGCATAGGCACTT---
+>Parambassis_ranga <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-TAATCCTGCATAGGCACTTAA-
+>Epinephelus_lanceolatus <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-TCATCCTGCATAGGCACTTCA-
+>Larimichthys_crocea <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-TAATCCTGCATAGGCACTTCA-
+>Nothobranchius_furzeri <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTTAA-
+>Fundulus_heteroclitus <unknown description>
+--CCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTTCA-
+>Cyprinodon_tularosa <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTT---
+>Cyprinodon_variegatus <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTT---
+>Poecilia_latipinna <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTT---
+>Xiphophorus_couchianus <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTT---
+>Xiphophorus_maculatus <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTT---
+>Xiphophorus_hellerii <unknown description>
+TGTCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTT---
+>Poecilia_reticulata <unknown description>
+--TCAAGTGCTTAGGAGGTATAT-T-TGATCCTGCATAGGCACTTCA-
+>Acipenser_ruthenus <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T---TTCCTGCATAGGCACTTTA-
+>Rhinatrema_bivittatum <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-CAAACCTGCATAGGCACTTTA-
+>Microcaecilia_unicolor <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GATACCTGCATAGGCACTTTA-
+>Geotrypetes_seraphini <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-CATACCTGCATAGGCACTTTA-
+>Meriones_unguiculatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGC-T-GGACTCTGCATAGGCACTTTA-
+>Mesocricetus_auratus <unknown description>
+---CAAGTGCTTAGGAGGTATGC-T-GAACTCTGCATAGGCACTTTA-
+>Arvicola_amphibius <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GCGCTCTGCATAGGCACTTGA-
+>Cricetulus_griseus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GCACTCTGCATAGGCACTTTG-
+>Elephantulus_edwardii <unknown description>
+---CAAGTGCTTAGGAGGTATGTCT---GCTCTGCATAGGCACTTTA-
+>Merops_nubicus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TGGACCTGCATAGGCACTTTA-
+>Strigops_habroptila <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TGGACCTGCATAGGCACTTTA-
+>Dromaius_novaehollandiae <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TTGACCTGCATAGGCACTTTA-
+>Leptosomus_discolor <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TGGACCTGCATAGGCACTTTA-
+>Pantherophis_guttatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TGGACCTGCATAGGCACTTTA-
+>Protobothrops_mucrosquamatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAAACCTGCATAGGCACTTTA-
+>Crotalus_tigris <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAAACCTGCATAGGCACTTTA-
+>Xenopus_tropicalis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-TACAGACCTGCATAGGCACTTTA-
+>Thamnophis_elegans <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Notechis_scutatus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Python_bivittatus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Thamnophis_sirtalis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Pseudonaja_textilis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Alligator_sinensis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TACACCTGCATAGGCACTTTA-
+>Colius_striatus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TATACCTGCATAGGCACTTTA-
+>Zootoca_vivipara <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TATACCTGCATAGGCACTTTA-
+>Apaloderma_vittatum <unknown description>
+--TCAAGTGCTTAGGAGGTATGC-T-TAGACCTGCATAGGCACTTTA-
+>Opisthocomus_hoazin <unknown description>
+--TCAAGTGCTTAGGAGGTATGC-T-TAGACCTGCATAGGCACTTTA-
+>Tinamus_guttatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGC-T-TAGACCTGCATAGGCACTTTA-
+>Gekko_japonicus <unknown description>
+---CAAGTGCTTAGGAGGTATGC-T-TAGACCTGCATAGGCACTTTA-
+>Melopsittacus_undulatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Nestor_notabilis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Sturnus_vulgaris <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-CAGACCTGCATAGGCACTTTA-
+>Zonotrichia_albicollis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-CAGACCTGCATAGGCACTTTA-
+>Lacerta_agilis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GAGACCTGCATAGGCACTTTA-
+>Mauremys_reevesii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-AAGACCTGCATAGGCACTTTA-
+>Dermochelys_coriacea <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-AAGACCTGCATAGGCACTTTA-
+>Terrapene_carolina_triunguis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-AAGACCTGCATAGGCACTTTA-
+>Chelonoidis_abingdonii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-AAGACCTGCATAGGCACTTTA-
+>Gopherus_evgoodei <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-AAGACCTGCATAGGCACTTTA-
+>Chelonia_mydas <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-AAGACCTGCATAGGCACTTTA-
+>Trachemys_scripta_elegans <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-AAGACCTGCATAGGCACTTTA-
+>Chrysemys_picta_bellii <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-AAGACCTGCATAGGCACTTTA-
+>Pyrgilauda_ruficollis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Hirundo_rustica <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Picoides_pubescens <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Cyanistes_caeruleus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Fulmarus_glacialis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Apteryx_rowi <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Manacus_vitellinus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Struthio_camelus_australis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Tyto_alba_alba <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Cuculus_canorus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Corvus_cornix_cornix <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Onychostruthus_taczanowskii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Balearica_regulorum_gibbericeps <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Neopelma_chrysocephalum <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Pseudopodoces_humilis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Chlamydotis_macqueenii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Apteryx_mantelli_mantelli <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Geospiza_fortis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Haliaeetus_leucocephalus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Mesitornis_unicolor <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Catharus_ustulatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Phaethon_lepturus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Motacilla_alba_alba <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Falco_rusticolus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Pogona_vitticeps <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Corvus_moneduloides <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Tauraco_erythrolophus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Nipponia_nippon <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Lepidothrix_coronata <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Pelecanus_crispus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Gavia_stellata <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Podarcis_muralis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Gavialis_gangeticus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Empidonax_traillii <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Antrostomus_carolinensis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Lonchura_striata_domestica <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Corapipo_altera <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Eurypyga_helias <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Ficedula_albicollis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Alligator_mississippiensis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Camarhynchus_parvulus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Columba_livia <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Haliaeetus_albicilla <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Serinus_canaria <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Parus_major <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Calypte_anna <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Coturnix_japonica <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Pipra_filicauda <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Passer_montanus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Chiroxiphia_lanceolata <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Acanthisitta_chloris <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Aptenodytes_forsteri <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Aquila_chrysaetos_chrysaetos <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Molothrus_ater <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Gallus_gallus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Buceros_rhinoceros_silvestris <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Egretta_garzetta <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Calidris_pugnax <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Pterocles_gutturalis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Falco_cherrug <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Charadrius_vociferus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Cariama_cristata <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Crocodylus_porosus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Corvus_brachyrhynchos <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Chaetura_pelagica <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Falco_peregrinus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Numida_meleagris <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Phasianus_colchicus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Meleagris_gallopavo <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Phalacrocorax_carbo <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Pygoscelis_adeliae <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Nothoprocta_perdicaria <unknown description>
+--TCAAGTGCTTAGGAGGTATGC-T-GAGACCTGCATAGGCACTTTA-
+>Athene_cunicularia <unknown description>
+--TCAAGTGCTTAGGAGGTATGC-T-CAGACCTGCATAGGCACTTTA-
+>Pelodiscus_sinensis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-AAGATCTGCATAGGCACTTTA-
+>Hipposideros_armiger <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGTTCTGCATAGGCACTTTA-
+>Ornithorhynchus_anatinus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGATCTGCATAGGCACTTTA-
+>Tachyglossus_aculeatus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGATCTGCATAGGCACTTTA-
+>Monodelphis_domestica <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGATCTGCATAGGCACTTTA-
+>Vombatus_ursinus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGATCTGCATAGGCACTTTA-
+>Trichosurus_vulpecula <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGATCTGCATAGGCACTTTA-
+>Phascolarctos_cinereus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGATCTGCATAGGCACTTTA-
+>Sarcophilus_harrisii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-TAGATCTGCATAGGCACTTTA-
+>Anolis_carolinensis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-A-TAGACCTGCATAGGCACTTTA-
+>Latimeria_chalumnae <unknown description>
+---CAAGTGCTTAGGAGGTATAT-T-TAGACCTGCATAGGCACTTTA-
+>Anser_cygnoides_domesticus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Cygnus_atratus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Oxyura_jamaicensis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Cygnus_olor <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Anas_platyrhynchos <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Aythya_fuligula <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-TAGACCTGCATAGGCACTTTA-
+>Ochotona_princeps <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GCACTCTGCATAGGCACTTTA-
+>Pongo_abelii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-C-GTGCTCTGCATAGGCACTTTA-
+>Balaenoptera_musculus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-C-GTGCTCTGCATAGGCACTTTA-
+>Onychomys_torridus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-C-GTGCTCTGCATAGGCACTTTA-
+>Balaenoptera_acutorostrata_scammoni <unknown description>
+---CAAGTGCTTAGGAGGTATGT-C-GTGCTCTGCATAGGCACTTTA-
+>Monodon_monoceros <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Arvicanthis_niloticus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Grammomys_surdaster <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Capra_hircus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-T-GCTCTGCATAGGCACTTTA-
+>Loxodonta_africana <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-T-GCTCTGCATAGGCACTTTA-
+>Miniopterus_natalensis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-T-GCTCTGCATAGGCACTTTA-
+>Ovis_aries <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-T-GCTCTGCATAGGCACTTTA-
+>Microtus_ochrogaster <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GCGCTCTGCATAGGCACTTTA-
+>Peromyscus_maniculatus_bairdii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GCGCTCTGCATAGGCACTTTA-
+>Ochotona_curzoniae <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GCGCTCTGCATAGGCACTTTA-
+>Peromyscus_leucopus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GCGCTCTGCATAGGCACTTTA-
+>Suricata_suricatta <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Sus_scrofa <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Nannospalax_galili <unknown description>
+--TCAAGTGCTTAGGAGGTATGGAT-GTGCTCTGCATAGGCACTTTA-
+>Pteropus_alecto <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Artibeus_jamaicensis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Callithrix_jacchus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Macaca_fascicularis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Theropithecus_gelada <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Pan_troglodytes <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Physeter_catodon <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Bos_indicus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Oryctolagus_cuniculus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Urocitellus_parryii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Ursus_maritimus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Otolemur_garnettii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Sorex_araneus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Oryx_dammah <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Chlorocebus_sabaeus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Lynx_canadensis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Ceratotherium_simum_simum <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Hylobates_moloch <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Marmota_flaviventris <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Hyaena_hyaena <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Ursus_arctos_horribilis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Myotis_davidii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Orycteropus_afer_afer <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Carlito_syrichta <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Sturnira_hondurensis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Macaca_mulatta <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Macaca_nemestrina <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Pan_paniscus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Homo_sapiens <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Canis_lupus_familiaris <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Vulpes_vulpes <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Tursiops_truncatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Odocoileus_virginianus_texanus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Bos_taurus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Acinonyx_jubatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Ictidomys_tridecemlineatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Castor_canadensis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Pipistrellus_kuhlii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Rhinolophus_ferrumequinum <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Rhinopithecus_roxellana <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Nomascus_leucogenys <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Panthera_tigris_altaica <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Pteropus_vampyrus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Pteropus_giganteus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Tupaia_chinensis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Colobus_angolensis_palliatus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Enhydra_lutris_kenyoni <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Cebus_imitator <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Dasypus_novemcinctus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Sapajus_apella <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Papio_anubis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Mandrillus_leucophaeus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Gorilla_gorilla_gorilla <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Ailuropoda_melanoleuca <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Felis_catus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Odobenus_rosmarus_divergens <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Camelus_dromedarius <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Molossus_molossus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Eptesicus_fuscus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Bos_indicus_x_Bos_taurus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Phocoena_sinus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Jaculus_jaculus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Canis_lupus_dingo <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Fukomys_damarensis <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Neophocaena_asiaeorientalis_asiaeorientalis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Erinaceus_europaeus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Rousettus_aegyptiacus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Puma_concolor <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Halichoerus_grypus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Mirounga_leonina <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Globicephala_melas <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Orcinus_orca <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Manis_javanica <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Marmota_marmota_marmota <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Choloepus_didactylus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Eumetopias_jubatus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Mustela_erminea <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Saimiri_boliviensis_boliviensis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Trachypithecus_francoisi <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Bos_mutus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Lipotes_vexillifer <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Propithecus_coquereli <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Camelus_ferus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Galeopterus_variegatus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Desmodus_rotundus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Cercocebus_atys <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Panthera_pardus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Zalophus_californianus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Leptonychotes_weddellii <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Phoca_vitulina <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Delphinapterus_leucas <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Cavia_porcellus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Octodon_degus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Heterocephalus_glaber <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Chinchilla_lanigera <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Callorhinus_ursinus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Bison_bison_bison <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Talpa_occidentalis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Bubalus_bubalis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Phyllostomus_discolor <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Lagenorhynchus_obliquidens <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Myotis_brandtii <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Piliocolobus_tephrosceles <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Puma_yagouaroundi <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Echinops_telfairi <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Mustela_putorius_furo <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Camelus_bactrianus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Dipodomys_ordii <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Neomonachus_schauinslandi <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Vicugna_pacos <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Microcebus_murinus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Aotus_nancymaae <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Myotis_myotis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Myotis_lucifugus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Rhinopithecus_bieti <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Lontra_canadensis <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Trichechus_manatus_latirostris <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Manis_pentadactyla <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Condylura_cristata <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Equus_caballus <unknown description>
+--TCAAGTGCTTAGGAGGTATGTAT-GTGCTCTGCATAGGCACTTTA-
+>Equus_asinus <unknown description>
+--TCAAGTGCTTAGGAGGTATGTAT-GTGCTCTGCATAGGCACTTTA-
+>Equus_przewalskii <unknown description>
+--TCAAGTGCTTAGGAGGTATGTAT-GTGCTCTGCATAGGCACTTTA-
+>Chrysochloris_asiatica <unknown description>
+---CAAGTGCTTAGGAGGTATGTAT-GTGCTCTGCATAGGCACTTTA-
+>Mus_pahari <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATGGGCACTTTA-
+>Mus_musculus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATGGGCACTTTA-
+>Mus_caroli <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATGGGCACTTTA-
+>Mastomys_coucha <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTA-
+>Rattus_rattus <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTG-
+>Rattus_norvegicus <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T-GTGCTCTGCATAGGCACTTTG-
+>Paramormyrops_kingsleyae <unknown description>
+---CAAGTGCTTAGGAGGTATGT-T-AGACTCTGCATAGGCACTTTA-
+>Hippocampus_comes <unknown description>
+GGTCAAGTGCTTAGGAGGTATCT-T--GAGTCTGCATAGGCACTT---
+>Morone_saxatilis <unknown description>
+GGTCAAGTGCTTAGGAGGTATTC-T--ACATCTGCATAGGCACTT---
+>Hippoglossus_stenolepis <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT---AAGATCTGCATAGGCACTT---
+>Hippoglossus_hippoglossus <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT---AAGATCTGCATAGGCACTT---
+>Paralichthys_olivaceus <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T--TGATCTGCATAGGCACTT---
+>Callorhinchus_milii <unknown description>
+--TCAAGTGCTTAGGAGGTATGT---TAAATCTGCATAGGCACTTAA-
+>Scyliorhinus_canicula <unknown description>
+--TCAAGTGCTTAGGAGGTATGC-T--AAATCTGCATAGGCACTTAA-
+>Carcharodon_carcharias <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T--AAATCTGCATAGGCACTTAA-
+>Amblyraja_radiata <unknown description>
+--TCAAGTGCTTAGGAGGTATGT-T--AAATCTGCATAGGCACTTAA-
+>Rhincodon_typus <unknown description>
+AGTCAAGTGCTTAGGAGGTATGT---TAAATCTGCATAGGCACTT---
+>Echeneis_naucrates <unknown description>
+GGTCAAGTGCTTAGGAGGTATT--T-TCAATCTGCATAGGCACTT---
+>Gouania_willdenowi <unknown description>
+GGTCAAGTGCTTAGGAGGTATTTCT----ATCTGCATAGGCACTT---
+>Periophthalmus_magnuspinnatus <unknown description>
+GGTCAAGTGCTTAGGAGGTATCTGT----ATCTGCATAGGCACTT---
+>Sphaeramia_orbicularis <unknown description>
+GGTCAAGTGCTTAGGAGGTATCTGT----ATCTGCATAGGCACTT---
+>Salarias_fasciatus <unknown description>
+GGCCAAGTGCTTAGGAGGTATTT-T-TTAATCTGCATAGGCACTT---
+>Archocentrus_centrarchus <unknown description>
+GGCCAAGTGCTTAGGAGGTATTT-T-TCAATCTGCATAGGCACTT---
+>Oncorhynchus_nerka <unknown description>
+--TCAAGTGCTTAGGAGGTATC--T-TAATTCTGCATAGGCACTTAA-
+>Salmo_trutta <unknown description>
+--TCAAGTGCTTAGGAGGTATC--T-TAATTCTGCATAGGCACTTAA-
+>Salmo_salar <unknown description>
+--TCAAGTGCTTAGGAGGTATC--T-TAATTCTGCATAGGCACTTAA-
+>Salvelinus_sp._IW2-2015 <unknown description>
+GGTCAAGTGCTTAGGAGGTATCT---TAATTCTGCATAGGCACTT---
+>Takifugu_rubripes <unknown description>
+--TCAAGTGCTTAGGAGGTATT--TGTGACTCTGCATAGGCACTTCA-
+>Acanthopagrus_latus <unknown description>
+--TCAAGTGCTTAGGAGGTATTT---ACAATCTGCATAGGCACTTCA-
+>Sparus_aurata <unknown description>
+--TCAAGTGCTTAGGAGGTATTT---ACAATCTGCATAGGCACTTCA-
+>Gasterosteus_aculeatus_aculeatus <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--CAATCTGCATAGGCACTTCA-
+>Labrus_bergylta <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T--CAATCTGCATAGGCACTT---
+>Seriola_dumerili <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T--GAATCTGCATAGGCACTT---
+>Seriola_lalandi_dorsalis <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--GAATCTGCATAGGCACTTCA-
+>Sander_lucioperca <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAATCTGCATAGGCACTTCA-
+>Perca_flavescens <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAATCTGCATAGGCACTTCA-
+>Anarrhichthys_ocellatus <unknown description>
+--TCAAGTGCTTAGGAGGTATTTAT----ATCTGCATAGGCACTTCA-
+>Notolabrus_celidotus <unknown description>
+--TCAAGTGCTTAGGAGGTATT--TATAAATCTGCATAGGCACTTCA-
+>Scophthalmus_maximus <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T--AGATCTGCATAGGCACTT---
+>Poecilia_formosa <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T-AAAATCTGCATAGGCACTTCA-
+>Poecilia_mexicana <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T-AAAATCTGCATAGGCACTTCA-
+>Oryzias_latipes <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T-AAAATCTGCATAGGCACTT---
+>Oryzias_melastigma <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T-AAAATCTGCATAGGCACTT---
+>Lates_calcarifer <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T-AAAACCTGCATAGGCACTT---
+>Micropterus_salmoides <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T-AAAATCTGCATAGGCACTT---
+>Sebastes_umbrosus <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T-TAAATCTGCATAGGCACTT---
+>Cottoperca_gobio <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAATCTGCATAGGCACTTCA-
+>Stegastes_partitus <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAATCTGCATAGGCACTTCA-
+>Pungitius_pungitius <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAATCTGCATAGGCACTTCA-
+>Xiphias_gladius <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T--AAATCTGCATAGGCACTT---
+>Amphiprion_ocellaris <unknown description>
+GGTCAAGTGCTTAGGAGGTATTT-T--AAATCTGCATAGGCACTT---
+>Myripristis_murdjan <unknown description>
+GGTCAAGTGCTTAGGAGGTATGT-T-----TCTGCATAGGCACTT---
+>Gadus_morhua <unknown description>
+GGTCAAGTGCTTAGGAGGTATCT-C--AATTCTGCATAGGCACTT---
+>Monopterus_albus <unknown description>
+GGCCAAGTGCTTAGGAGGTATTT-T--AAGTCTGCATAGGCACTT---
+>Acanthochromis_polyacanthus <unknown description>
+GGCCAAGTGCTTAGGAGGTATTT-T--AAATCTGCATAGGCACTT---
+>Gymnodraco_acuticeps <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAGTCTGCATAGGCACTTCA-
+>Trematomus_bernacchii <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAGTCTGCATAGGCACTTCA-
+>Pseudochaenichthys_georgianus <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAGTCTGCATAGGCACTTCA-
+>Notothenia_coriiceps <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AAGTCTGCATAGGCACTTCA-
+>Cyclopterus_lumpus <unknown description>
+--TCAAGTGCTTAGGAGGTATTT-T--AATTCTGCATAGGCACTTCA-

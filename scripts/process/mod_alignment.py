@@ -11,6 +11,11 @@ from Bio import AlignIO
 import glob
 import os
 import re
+import random as rd
+import numpy as np
+from Bio.Seq import Seq
+from Bio.SeqRecord import SeqRecord
+from Bio.Align import MultipleSeqAlignment
 
 ################################################################################################
 align_dir = r'C:\Users\felix\PycharmProjects\human_mirna_evol\data\raw\refseq_alignments'
@@ -18,6 +23,7 @@ gff_path = r'C:\Users\felix\PycharmProjects\human_mirna_evol\data\raw\hsa.gff'
 mat_path = r'C:\Users\felix\PycharmProjects\human_mirna_evol\data\raw\hsa.fas'
 
 nomat_outdir = r'C:\Users\felix\PycharmProjects\human_mirna_evol\data\processed\no_mat_alns'
+jack_outdir = r'C:\Users\felix\PycharmProjects\human_mirna_evol\data\processed\jackknifed_alns'
 ################################################################################################
 
 
@@ -75,6 +81,21 @@ def get_mature_pos(alignment, matseq):
                 return '', '', ''
 
 
+def alignment_jackknife(alignment, matlength):
+    rand_ind = np.sort(rd.sample(range(alignment.get_alignment_length()), matlength))
+
+    aln_mat = np.array([list(rec) for rec in alignment], 'S1')
+    sampled_aln_mat = np.delete(aln_mat, rand_ind, axis=1)
+
+    sample_list = []
+    for rowc, record in enumerate(alignment):
+        rowseq = sampled_aln_mat[rowc, :].tobytes().decode('utf-8')
+        row = SeqRecord(Seq(rowseq), id=record.id)
+        sample_list.append(row)
+    sample_aln = MultipleSeqAlignment(sample_list)
+    return sample_aln
+
+
 ################################################################################################
 
 mat_dict = read_matmir_fasta(mat_path)
@@ -84,21 +105,17 @@ mirnas_skipped = 0
 for file in aln_files:
     mirna = file.split(os.sep)[-1].replace('.aln', '')
     mature = mat_dict[mirna]
-
     full_aln = AlignIO.read(file, 'fasta')
-    start, end, length = get_mature_pos(full_aln, mature)
-    if not start:  # skip alignments
-        continue
 
+    start, end, length = get_mature_pos(full_aln, mature)
+    if not start:  # skip alignments where mature not found in ncOrtho hit (2 in total)
+        continue
     no_mat_aln = full_aln[:, :start] + full_aln[:, end:]
     nomat_out = f'{nomat_outdir}/{mirna}.aln'
     AlignIO.write(no_mat_aln, nomat_out, "fasta")
+    print('# Finished writing alignments of miRNAs without the mature sequence')
 
-
-
-
-
-
-
-
-
+    jack_aln = alignment_jackknife(full_aln, length)
+    jack_out = f'{jack_outdir}/{mirna}.aln'
+    AlignIO.write(jack_aln, jack_out, 'fasta')
+    print('# Finished writing jackknifed alignments')
