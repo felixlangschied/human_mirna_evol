@@ -1,23 +1,23 @@
 >Pongo_abelii <unknown description>
-CCCTCTAGATGGAAGCACTGTCGTTGTC-TAATAAAAGATCGTGCATCCTTTTAGAGTGT
-TACTGTTTGAGAAAAGCAACGTTGAAGATGCTGCTGATTTGGTAATACATTTTGAGCGTG
-CTTATCATCAGACTTGCATGATGTTGGGTTCTCTTTGGTTTGTTTTTTTCCAAGAAGGGT
-CCTGTTGCCCAGGCGGAGTAGGTGGCACTTCCAACCGAGATCTCTTGGGCTCAAGTGGTG
-CTCTTTTTATTTTTGATTTTTTGAGATGCCCTCTCGCTCCGTTTCCCAGGCTGGAGTGCA
-GCGGCAGGATCCCTGTGACCAGAAACTCCGCCTCCCAGGTTCCAGTGATTCTCCACCTCA
-GCCTGCTGAATAAAGTTGGGAATACAGATGCCCACCATCATGTCCTGCTAGTTATTATTT
-TTACTGTTGTTTTGAGATGGAGTTTCACTCTTGATGTCCAGGCTGGAGTGCGTGGTGCGA
-TCTAGGCTACTGCAACCTCCACCTCCTGGGTTCAAGCAATTCTCCTGCCACAGCTTCCCA
-GGTGGCTGGGATTAAGGTGCCTACCTTCCCACCGGCTAATTTTTGTGTTTTGAATAGAGA
-CTGGGTTTCACCATGTTGGGCAGGCTGGTCTCAAACTACTGACCTCAGGTGATCCACCAG
-CCTTGGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCACCCCTAATCTCACATGG
-TCCTCTAGAGTCAGCCTAGACTCTGGTCTATCTGGAGGATGTTTGTGTGTGAGACAATGT
-ATATTCTTCAACATCAGCCCAATTCTCTTAGTTAAATTAAGGTATGAGTAGTAGGTATTC
-CTTTTTCTCTTTGGGACAACACTCAGGACGATTGCCCCTTGAGAACAAGGCTAACCGCTG
-AGCCTTTGAAACAAGGAACTGGAGATGGTCCTTTTAGGGGTTTATGTTCTGGATTCCAGA
-AACAGGCAAACAGGGCCAATAAATGCATTTTATTTTTGTGTCCATTTTAACCTG
+CCCTCTAGATGAAGCACTGTCTGTTGTC-TAATAAAAGATCGTGCATCCTTTTAGAGTGT
+TACTGTTTGAGAAAAGCAACGTTGAAGATGCTGCTGATCTTGGTAATACATTTGTGAGCG
+TGCTTATCATCAGACTTGCATGATGTTGGGGTTCTCTTTGGTTTGTTTTTTTCCAAGACA
+GGGTCCTGTGCCCAGGCGGGAGTAGGTGGCACTTCCAACCGAGATCTCTTGGGCTCAAGT
+GGTGCTCTTTTTATTTTGATTTTTTGAGATGCCCTCTCGCTCCGTTTCCCAGGCTGGAGT
+GCAGCGGCAGGATCCCTGTTGACCAGAAACTCCGCCTCCCAGGTTCCAGTGATTCTCCAC
+CTCAGCCTGCTGAAAAAGTTGGGAATACAATGCCCACCATCATGTCCTGCTAGTTATTAT
+TTTTACTGTTTTGTTGAGATGGAGTTTCACTCTTGATGTCCAGGCTGGAGTCAGTGGTGC
+GATCTAGGCTACTGCAACCTCCCCTCCTGGGTTCAAGCAATTCTCCTGCCACAGCTTCCC
+AGGTGGCTGGGATTACAGGTGCCACCTTCCCACCAGCTAATTTTTGTGTTTTGAATAGAG
+ACTGGGTTTCACCATGTTGGCAGGCTGGTCTCAAACTACTGACCTCAGGTGATCCACAGC
+CTTGGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCACCCCTAATCTCACATGGT
+CCTCTAGAGTCAGCCTAGACTCTGGTCTATCCTGGAGGATGTTTGTGTGTGAGACAATTA
+TATTCTTCAACATCAGCCCAATTCTCTTAGTTAAATATAAGGTATGAGTAGTAGGTTTCC
+TTTTTCTTTTGGGGACAACACTCAGGACGATTGCCCCTTGATGAACAAGGCTAACCTGCT
+GAGCCTTTGAACAAGGAACTGGAGATGGTCCTTTTAGGGGTTTATGTTCTGGATTCCAGA
+AAACAGGCAAACAGGGCCAATAAATGCATTTTTATTTTTGTTCCATTTTACCTG
 >Gorilla_gorilla_gorilla <unknown description>
-CCCTCTAGATGGAAGCACTGTCGTTGTCTTAAGAAAAGATCGTGCATCCCTTTAGAGT--
+CCCTCTAGATGAAGCACTGTCTGTTGTCTTAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -35,7 +35,7 @@ CCCTCTAGATGGAAGCACTGTCGTTGTCTTAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------
 >Pan_troglodytes <unknown description>
-CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
+CCCTCTAGATGAAGCACTGTCTGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -53,7 +53,7 @@ CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------
 >Hylobates_moloch <unknown description>
-CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
+CCCTCTAGATGAAGCACTGTCTGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -71,7 +71,7 @@ CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------
 >Pan_paniscus <unknown description>
-CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
+CCCTCTAGATGAAGCACTGTCTGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -89,7 +89,7 @@ CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------
 >Homo_sapiens <unknown description>
-CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
+CCCTCTAGATGAAGCACTGTCTGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -107,7 +107,7 @@ CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------
 >Nomascus_leucogenys <unknown description>
--CCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGTGT
+-CCTCTAGATGAAGCACTGTCTGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGTGT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -125,7 +125,7 @@ CCCTCTAGATGGAAGCACTGTCGTTGTC-TAAGAAAAGATCGTGCATCCCTTTAGAGT--
 ------------------------------------------------------------
 ------------------------------------------------------
 >Piliocolobus_tephrosceles <unknown description>
-CACTCTAAATGGCAGCACTGTCGTGGTC-TAAGAGAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGCAGCACTGTCTGTGGTC-TAAGAGAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -143,7 +143,7 @@ CACTCTAAATGGCAGCACTGTCGTGGTC-TAAGAGAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Trachypithecus_francoisi <unknown description>
-CACTCTAAATGGCAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGCAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -161,7 +161,7 @@ CACTCTAAATGGCAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Rhinopithecus_roxellana <unknown description>
-CACTCTAAATGGCAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGCAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -179,7 +179,7 @@ CACTCTAAATGGCAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Rhinopithecus_bieti <unknown description>
-CACTCTAAATGGCAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGCAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -197,7 +197,7 @@ CACTCTAAATGGCAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Macaca_fascicularis <unknown description>
-CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGAAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -215,7 +215,7 @@ CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Theropithecus_gelada <unknown description>
-CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGAAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -233,7 +233,7 @@ CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Chlorocebus_sabaeus <unknown description>
-CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGAAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -251,7 +251,7 @@ CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Cercocebus_atys <unknown description>
-CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGAAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -269,7 +269,7 @@ CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Macaca_mulatta <unknown description>
-CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGAAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -287,7 +287,7 @@ CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Papio_anubis <unknown description>
-CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
+CACTCTAAATGAAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -305,7 +305,7 @@ CACTCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAG---
 ------------------------------------------------------------
 ------------------------------------------------------
 >Macaca_nemestrina <unknown description>
----TCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAGTGT
+---TCTAAATGAAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAGTGT
 T-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -323,7 +323,7 @@ T-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------
 >Mandrillus_leucophaeus <unknown description>
----TCTAAATGGAAGCACTGTCGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAGTGT
+---TCTAAATGAAGCACTGTCTGTGTTC-TAAGAAAAGATCGTGCAGCCCTTTAGAGTGT
 T-----------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------

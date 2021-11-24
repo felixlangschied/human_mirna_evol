@@ -1,147 +1,147 @@
 >Heterocephalus_glaber <unknown description>
----------------------------CTCAAAGTCAGT-ATACGGACTGTTGTTGCCTT
--GAGAGA
+---------------------TAAAGGGTGTAGC-ACATAACTGAACCTGATGTTGCCTT
+T-GGATA
 >Aotus_nancymaae <unknown description>
---------------------------CCCAAAAGTCAAA-CTACAAAACGTTGTCACCTT
--GAGA--
+--------------------CTAAAGGGTGTAAC-CGATAACTAAACACGATGTCACCTT
+T-TGATA
 >Odocoileus_virginianus_texanus <unknown description>
------------------TGTAGTGTCCCCCAGAGCCTTT-ATACAAAATGTTGTTACCTT
+---------------TGATCCTAAAGGGTGCTTC-AGGTAACTAAACATGATGTTACCT-
 -------
 >Galeopterus_variegatus <unknown description>
----------------------------TCGAAAGTCACT-ATACAAAATGTTGTCACTTT
--GAGAGA
+---------------------TAAAGAGTGTACC-ACGTAACTAAACATGATGTCACTTT
+T-TGATA
 >Loxodonta_africana <unknown description>
----------------------------CTCAGAGTCATT-ATACAAAGTTTTGTCACCTT
--GAGAGA
+---------------------TAAAGGGTATATC-AAATAACTAAACGTTATGTCACCTT
+T-TGATA
 >Bos_mutus <unknown description>
---------------------------TCCCAGAGTCATT-ATACAAGATGCTGTCACCTT
--GAGG--
+--------------------TTAAAGGGTGTATC-AGGTAACTAAGCATGTCGTCACCTC
+T-TGATG
 >Bison_bison_bison <unknown description>
---------------------------TCCCAGAGTCATT-ATACAAGATGCTGTCACCTT
--GAGG--
+--------------------TTAAAGGGTGTATC-AGGTAACTAAGCATGTCGTCACCTC
+T-TGATG
 >Bos_indicus_x_Bos_taurus <unknown description>
---------------------------TCCCAGAGTCATT-ATACAAGATGCTGTCACCTT
--GAGG--
+--------------------TTAAAGGGTGTATC-AGGTAACTAAGCATGTCGTCACCTC
+T-TGATG
 >Bos_taurus <unknown description>
----------------------------CCCAGAGTCATT-ATACAAGATGCTGTCACCTT
--GAGGGA
+---------------------TAAAGGGTGTATC-AGGTAACTAAGCATGTCGTCACCTC
+T-TGATG
 >Capra_hircus <unknown description>
---------------------------TCCCAGAGTCATT-ATACAAGATGTTGTCACCTT
--GAGG--
+--------------------TTAAAGGGTGTATC-AGATAACTAAGCATGATGTCACCTC
+T-TGATG
 >Ovis_aries <unknown description>
---------------------------TCCCAGAGTCATT-ATACAAGATGTTGTCACCTT
--GAGG--
+--------------------TTAAAGGGTGTATC-AGATAACTAAGCATGATGTCACCTC
+T-TGATG
 >Oryx_dammah <unknown description>
----------------------------CCCAGAGTCATT-ATACAAGATGTTGTCACCTT
--GAGGGA
+---------------------TAAAGGGTATATC-AGATAACTAAGCATGATGTCACCTC
+T-TGATG
 >Camelus_ferus <unknown description>
---------------------------CCCCAGAGTCATT-ATACAAAATGTTGTCACTTT
--GAGA--
+--------------------CTAAAGAGTGTATC-ACATAACTACACATGATGTCACTTT
+T-GGATA
 >Camelus_bactrianus <unknown description>
---------------------------CCCCAGAGTCATT-ATACAAAATGTTGTCACTTT
--GAGA--
+--------------------CTAAAGAGTGTATC-ACATAACTACACATGATGTCACTTT
+T-GGATA
 >Camelus_dromedarius <unknown description>
---------------------------CCCCAGAGTCATT-ATACAAAATGTTGTCACTTT
--GAGA--
+--------------------CTAAAGAGTGTATC-ACATAACTACACATGATGTCACTTT
+T-GGATA
 >Vicugna_pacos <unknown description>
----------------------------CCCAGAGTCATT-ATACAAAATGTTGTCACTTT
--GAGAGA
+---------------------TAAAGAGTGTATC-ACATAACTACACATGATGTCACTTT
+T-GGATA
 >Eptesicus_fuscus <unknown description>
----------------------------CCCAGATTCAAT-ATACGAAATGTTGTCACCTT
--GAGAGA
+---------------------TAAAGGTTGTAAC-ACATACCTGAACATGATGTCACCTT
+T-TGATA
 >Callithrix_jacchus <unknown description>
----------------------------CCCAGAGTCGAT-ATACAAAACGTTGTCAGCTT
--GAGAGA
+---------------------TAAAGGGTGTGAC-ACATAACTAAACACGATGTCAGCTT
+T-TGATA
 >Cebus_imitator <unknown description>
----------------------------CCAAGAGTCAAT-ATACAAAATGTTGTCACGTT
--GAGAGA
+---------------------TAAAGGGTGTAAC-ACATAACTAAACATGATGTCACGTT
+T-TGATA
 >Gorilla_gorilla_gorilla <unknown description>
----------------------------CCCAGAGTCACT-ATACAAAATGCTGTAGCCTT
--GAGAGA
+---------------------TAAAGGGCGTACC-ATGTAACTAAACATGACGTAGCCTT
+C-TGATA
 >Pan_troglodytes <unknown description>
----------------------------CCCAGAGTCAGT-ATACAAAATGTTGTAGCCTT
--GAGAGA
+---------------------TAAAGGGCATAGC-ATGTAACTAAACATGATGTAGCCTT
+T-TGATA
 >Pan_paniscus <unknown description>
----------------------------CCCAGAGTCAGT-ATACAAAATGTTGTAGCCTT
--GAGAGA
+---------------------TAAAGGGCATAGC-ATGTAACTAAACATGATGTAGCCTT
+T-TGATA
 >Hylobates_moloch <unknown description>
---------------------------CCCCAGAGTCACT-ATACACAATGTTGTAGCCCT
--GAGA--
+--------------------CTAAAGGGCGTACC-ACGTAACTAAACATGATGTAGCCCT
+T-TGATA
 >Nomascus_leucogenys <unknown description>
----------------------------CCCAGAGTCACT-ATACACAATGTTGTAGCCCT
--GAGAGA
+---------------------TAAAGGGCGTACC-ACGTAACTAAACATGATGTAGCCCT
+T-TGATA
 >Homo_sapiens <unknown description>
----------------------------CCCAGAGTCACT-ATACAAAATGTTGTAGCCTT
--GAGAGA
+---------------------TAAAGGGCGTACC-ATGTAACTAAACATGATGTAGCCTT
+T-GGATA
 >Pongo_abelii <unknown description>
----------------------------CCCAGAGTCACT-ATACAAAATGTTGTAGCCTT
--GAGAGA
+---------------------TAAAGGGCGTACC-ACGTAACTAAACATGATGTAGCCTT
+T-TGATA
 >Colobus_angolensis_palliatus <unknown description>
---------------------------CCCCAGAGTCAAT-ATACAAAATGTTGTCGTCTT
--GAGA--
+--------------------CTAAAAGGCGTAAC-ACATAACTAAACATGATGTCGTCTT
+T-TGATA
 >Piliocolobus_tephrosceles <unknown description>
---------------------------CCCCAGAGTCAAT-ATACAAAATGTTGTCGCCTT
--GAGA--
+--------------------CTAAAGGGCGTAAC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Trachypithecus_francoisi <unknown description>
---------------------------CCCCAGAGTCAAT-ATACAAAATGTTGTCGCCTT
--GAGA--
+--------------------CTAAAGGGCGTAAC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Rhinopithecus_bieti <unknown description>
-GAGTCCCCCTCAGCGAGTGTAGTGCTCCCCAGAGTCAAT-ATA-----------------
+GTCCACCTTCAGCGATGATTCTAAAGGGCGTAAC-ACATAA-------------------
 -------
 >Rhinopithecus_roxellana <unknown description>
----------------------------CCCAGAGTCAAT-ATACAAAATGTTGTCACCTT
--GAGAGA
+---------------------TAAAGGGCGTAAC-ACATAACTAAACATGATGTCACCTT
+T-TGATA
 >Chlorocebus_sabaeus <unknown description>
----------------------------CCCGGAGTCACT-ATACAAAATGTTGTCGCCTT
--GAGAGA
+---------------------TAGAGGGCGTACC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Macaca_fascicularis <unknown description>
----------------------------CCCAGAGTCACT-ATACAAAATGTTGTCGCCTT
--GAGAGA
+---------------------TAAAGGGCGTACC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Theropithecus_gelada <unknown description>
----------------------------CCCAGAGTCACT-ATACAAAATGTTGTCGCCTT
--GAGAGA
+---------------------TAAAGGGCGTACC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Cercocebus_atys <unknown description>
----------------------------CCCAGAGTCACT-ATACAAAATGTTGTCGCCTT
--GAGAGA
+---------------------TAAAGGGCGTACC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Macaca_mulatta <unknown description>
----------------------------CCCAGAGTCACT-ATACAAAATGTTGTCGCCTT
--GAGAGA
+---------------------TAAAGGGCGTACC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Macaca_nemestrina <unknown description>
---------------------------CCCCAGAGTCACT-ATACAAAATGTTGTCGCCTT
--GAGA--
+--------------------CTAAAGGGCGTACC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Papio_anubis <unknown description>
---------------------------CCCCAGAGTCACT-ATACAAAATGTTGTCGCCTT
--GAGA--
+--------------------CTAAAGGGCGTACC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Mandrillus_leucophaeus <unknown description>
---------------------------CCCCAGAGTCACT-ATACAAAATGTTGTCGCCTT
--GAGA--
+--------------------CTAAAGGGCGTACC-ACATAACTAAACATGATGTCGCCTT
+T-TGATA
 >Trichechus_manatus_latirostris <unknown description>
---------------------------CCCCAGAGTCATT-GTACAAAATGCTGTCACCTT
--GAG---
+--------------------CTGAAGGGTGTATC-GCATAACTAAACATGACGTCACCTT
+T-TGA--
 >Propithecus_coquereli <unknown description>
---------------------------CCCCAGAGACACT-ATGCAAAATGTTGTCACCTT
--GAGA--
+--------------------CTAAAGGGTGAACC-ACATGACTATACATGATGTCACCTT
+T-TGATA
 >Dasypus_novemcinctus <unknown description>
---------------------------CCCCAGAGTCATT-ATAAAAAATGTTGTCACCTT
--GAGA--
+--------------------CTAAAGGGTGTATC-AC-TAGATAAACATGATGTCACCTT
+T-TGATA
 >Miniopterus_natalensis <unknown description>
---------------------------CCCCAGAGTCATT-ATACAAAATGTTGTCACCCT
--GAGA--
+--------------------CTAAAGGGTGTATC-ACATAACTAAACATGATGTCACCCT
+T-TGATA
 >Microcebus_murinus <unknown description>
----------------------------CCCAGAGACACTAATACAAAATGTTGTCACCCT
-CGAGAGA
+---------------------TAAAGAGTGAACCAACATAACTAAACATGATGTCACCCT
+TCTGATA
 >Equus_caballus <unknown description>
----------------------------CCCAGAGTCATT-ATACAAGATGTTGTCACCTT
--GAGAGA
+---------------------TAAAGGGTGTATC-ACATAACTAAGCATGATGTCACCTT
+T-GGATA
 >Equus_asinus <unknown description>
----------------------------CCCAGAGTCATT-ATACAAGATGTTGTCACCTT
--GAGAGA
+---------------------TAAAGGGTGTATC-ACATAACTAAGCATGATGTCACCTT
+T-GGATA
 >Equus_przewalskii <unknown description>
---------------------------CCCCAGAGTCATT-ATACAAGATGTTGTCACCTT
--GAGA--
+--------------------CTAAAGGGTGTATC-ACATAACTAAGCATGATGTCACCTT
+T-GGATA
 >Oryctolagus_cuniculus <unknown description>
----------------------------CCCAGAGTCACT-ATTCAAGATGTTGTCACCTT
--GAGAGA
+---------------------TAAAGGGTGTACC-ACATTCCTAAGCATGATGTCACCTT
+T-TGATA
 >Ceratotherium_simum_simum <unknown description>
----------------------------CCCAGAGTCACT-ATACAAGATGTTGTCACCTT
--GAGAGA
+---------------------TAAAGGGTGTACC-ACATAACTAAGCATGATGTCACCTT
+T-TGATA

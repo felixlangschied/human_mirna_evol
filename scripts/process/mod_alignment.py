@@ -50,10 +50,12 @@ def make_mat_regex(seq):
 
 
 def regex_mature(preseq, mature):
+    extend_counter = 0
     trim = 0
     mat_regex = make_mat_regex(mature)
     res = re.search(mat_regex, preseq)
     if res is None:
+        extend_counter += 1
         trim = 1
         trim_mat_regex = make_mat_regex(mature[trim:-trim])
         res = re.search(trim_mat_regex, preseq)
@@ -63,22 +65,22 @@ def regex_mature(preseq, mature):
             res = re.search(trim_mat_regex, preseq)
             if res is None:
                 print('No Hit found')
-                return '', ''
-    return res.group().strip('-'), trim
+                return '', '', ''
+    return res.group().strip('-'), trim, extend_counter
 
 
 def get_mature_pos(alignment, matseq):
     for row in alignment:
         if row.name == 'Homo_sapiens':
             human_seq = str(row.seq)
-            mat_hit, padding = regex_mature(human_seq, matseq)
+            mat_hit, padding, exc = regex_mature(human_seq, matseq)
             if mat_hit:
                 mat_start = human_seq.index(mat_hit) - padding
                 mat_end = mat_start + len(mat_hit) + padding
                 mat_length = mat_end - mat_start
-                return mat_start, mat_end, mat_length
+                return mat_start, mat_end, mat_length, exc
             else:
-                return '', '', ''
+                return '', '', '', ''
 
 
 def alignment_jackknife(alignment, matlength):
@@ -102,20 +104,24 @@ mat_dict = read_matmir_fasta(mat_path)
 
 aln_files = glob.glob(f'{align_dir}/*')
 mirnas_skipped = 0
+times_extended = 0
 for file in aln_files:
     mirna = file.split(os.sep)[-1].replace('.aln', '')
     mature = mat_dict[mirna]
     full_aln = AlignIO.read(file, 'fasta')
 
-    start, end, length = get_mature_pos(full_aln, mature)
+    start, end, length, extend_counter = get_mature_pos(full_aln, mature)
     if not start:  # skip alignments where mature not found in ncOrtho hit (2 in total)
         continue
+    times_extended += extend_counter
     no_mat_aln = full_aln[:, :start] + full_aln[:, end:]
     nomat_out = f'{nomat_outdir}/{mirna}.aln'
     AlignIO.write(no_mat_aln, nomat_out, "fasta")
-    print('# Finished writing alignments of miRNAs without the mature sequence')
+    # print('# Finished writing alignments of miRNAs without the mature sequence')
 
     jack_aln = alignment_jackknife(full_aln, length)
     jack_out = f'{jack_outdir}/{mirna}.aln'
     AlignIO.write(jack_aln, jack_out, 'fasta')
-    print('# Finished writing jackknifed alignments')
+    # print('# Finished writing jackknifed alignments')
+
+print(times_extended)

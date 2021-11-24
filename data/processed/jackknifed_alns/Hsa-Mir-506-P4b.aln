@@ -1,6 +1,6 @@
 >Choloepus_didactylus <unknown description>
----------------------------------GAGCGTGGCAATCATGTATATTAAATA
-TGATTGGCACTTTGTGGGTGAAAT------------------------------------
+--------------------------------GAGCGTGGCAATCATGTATAATTAAATA
+TGATTGGCACCTTTTGGGTGAAT-------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -16,25 +16,25 @@ TGATTGGCACTTTGTGGGTGAAAT------------------------------------
 ------------------------------------------------------------
 ----------------------
 >Pongo_abelii <unknown description>
-CCTCAGACATGCTGTGTGTGGTACCCTACTGCAGACAGTGGCAATCATGTATGTTAAAAA
-TGATTGGTAGTCTGCGGGTAGAGTACTGCATGACACATGCAACATACATGATGATACTGT
-CTGTGTGTGGGAGGCATTTAGTTGCATGCAGAGGGATGCTTTCCTTATACTGCAGGTTTT
-TACCCTGAAACCCTCCAGTTCCATGCTGGACTACCTGAAAACTCTCCAGGTCCTAATCAG
-ACGCATGATCTAGGAATTAAGGTCCTCCCAACAAGCTCCCATTGAGTTCTTCTGAGATTG
-ATTTCCATTTCTATGATGTTGCCTGATTGAATCAAGGTTTATCTTGCCATTATACAGTTT
-CTTTCTGCCTTAAGAGTATTATTCTTTTTGCAGAAACTATTTCTACTCCAACATCCAAAT
-CTATTAACGGTTAGCTTCCTTCCTAAATTTCAAGTCTCTTAAGCTTTCAAAATTCCCTCC
-TGCTTCTTAAACACTTAACTTTCTGAAAATAAAATATTTTCTATTTCAGATATACAAAGT
-CCTCTTTCTTCATGGGCTAATAAAGTACATATTCGTTCTTTTGTAAATATATTTTAATCA
-TTATAAGGAACAGGATAAGACATGCAAGGATATTTCTTCTGTGAGTAACGAACCTAGCAG
-AAATGTTTAATATTTCCCAGTTCTGAAAACTGTCATGTGAAAGATGCAACATGGGAGTGG
-AAAGCACTCAAACAGGAAATATAAGGAAAGATAGTGGATTGGATTCTACAGAAGTCCTTT
-GTCCAAATTCCAATGGTCACTCACGCTTGTAAATATTGAATGGTTGTTTCAAAGGGAATG
-GGTGGTATTAAGCAAGGCTGCCATCCTCGACATGCTGTGTGTGGTACCCTACTGCAGCAG
-TGGCAATCAGTATATTAAAAAT
+CCCAGACATGCTGTGTGTGGTACCCTACTGCAGACAGTGGCAATCATGTATGATTAAAAA
+TGATTGGTACGTCTCGGGTAGGTACTGCATGACACATGCAACATACATGATGATACTGTC
+TGTGTGTGGAGGCATTTAGTTGCATGCAGAGGGATGCTTTCCTTATACTGCAGGTATTTT
+ACCCTGGAAAACCCTCCAGTTCCATGCTGGACTACCTCAGAAAACTCTCTCAGGTGCCTA
+ATCAGACCATATCTAGGAATTTAGGTCCTCCCAACAAGCCTCCATTGAGTTCTTCTGAGA
+TTGATTTCCATTTCTATGATGTTGCCTGATTGAATCAAGGTTTATCTTGCCATTATACAG
+TTTCTTTCTGCCTTAAGAGTATTATTCTTTTTGCAGAAATATTTCCTACTCCAACATCCA
+AATCTATTAACGGTTAGCTTCCTTCCTAAATTTCAAGTCTTCTTAAGTTCCAAAATTCCC
+TCCTGCTTCTTAAACACTTAACTTTCTGAAAATCAAAATTTTTCTATTTCAGATATACAA
+AGTCCTCTTTCTTCATGGGCTAATAAAGTACATATTCGTTCTTTTGTAATATATTTTAAT
+CCATTATAAGGAACAGGATAAGACATGCAGGATATTTCTTCTGTGAGTAACAGAACCTAG
+CAGAAATGTTTAATATTTCCCAGTTCTGAAACTGTCATGTGAAAGATGCAACATGGGAGT
+GGAAAGCACTCAAAGCAGGAAATATAAGGAGATAGTGGATTGGATTCTACAGAAGTCCTT
+TCCAAATTCCAATGGTCACTACAGCTTGTAAATATTGAATGGTTGTTTCAAAGGGAATGG
+GTGGGTTTAAGGCAAGGCTGCCATCTCAGACATGCTGTGTGTGGTACCCTACTGCAGCAG
+TGGCAATCATGATATTAAAAAT
 >Homo_sapiens <unknown description>
---------------------------TACTGCAGAC-GTGGCAATCATGTATATTAAAAA
-TGATTGGTAGTCTGTGGGTAGA--------------------------------------
+-------------------------TACTGCAGAC-GTGGCAATCATGTATAATTAAAAA
+TGATTGGTACGTCTTGGGTAG---------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -50,8 +50,8 @@ TGATTGGTAGTCTGTGGGTAGA--------------------------------------
 ------------------------------------------------------------
 ----------------------
 >Gorilla_gorilla_gorilla <unknown description>
---------------------------TACTGCAGAC-GTGGCAATCATGTATATTAAAAA
-TGATTGGTAGTCTGTGGGTAGA--------------------------------------
+-------------------------TACTGCAGAC-GTGGCAATCATGTATAATTAAAAA
+TGATTGGTACGTCTTGGGTAG---------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -67,8 +67,8 @@ TGATTGGTAGTCTGTGGGTAGA--------------------------------------
 ------------------------------------------------------------
 ----------------------
 >Pan_troglodytes <unknown description>
---------------------------TACTGCAGAC-GTGGCAATCATGTATATTAAAAA
-TGATTGGTAGTCTGTGAGTAGA--------------------------------------
+-------------------------TACTGCAGAC-GTGGCAATCATGTATAATTAAAAA
+TGATTGGTACGTCTTGAGTAG---------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -84,8 +84,8 @@ TGATTGGTAGTCTGTGAGTAGA--------------------------------------
 ------------------------------------------------------------
 ----------------------
 >Pan_paniscus <unknown description>
---------------------------TACTGCAGAC-GTGGCAATCATGTATATTAAAAA
-TGATTGGTAGTCTGTGAGTAGA--------------------------------------
+-------------------------TACTGCAGAC-GTGGCAATCATGTATAATTAAAAA
+TGATTGGTACGTCTTGAGTAG---------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -101,8 +101,8 @@ TGATTGGTAGTCTGTGAGTAGA--------------------------------------
 ------------------------------------------------------------
 ----------------------
 >Aotus_nancymaae <unknown description>
--------------------------CTGCTGTAGGA-GTGGCAGTCGTTTATATTAAAAA
-TGATTGACAATCTGCAGG------------------------------------------
+------------------------CTGCTGTAGGA-GTGGCAGTCGTTTATAATTAAAAA
+TGATTGACACATCTCAGG------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -118,8 +118,8 @@ TGATTGACAATCTGCAGG------------------------------------------
 ------------------------------------------------------------
 ----------------------
 >Callithrix_jacchus <unknown description>
-------------------------------GCAGAG-TGGGCAATCATTTATATAAAAAA
-TGATTGACAATCTGCAGGTAGAGT------------------------------------
+-----------------------------GCAGAG-TGGGCAATCATTTATAATAAAAAA
+TGATTGACACATCTCAGGTAGGT-------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------

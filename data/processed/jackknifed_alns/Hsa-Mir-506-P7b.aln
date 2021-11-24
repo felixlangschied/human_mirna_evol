@@ -1,6 +1,6 @@
 >Erinaceus_europaeus <unknown description>
---------------CTTACTCCAGAAAGTGTCAATCATTTTTATCTATATGTGATTGACA
-CTTCTGTGGTA-------------------------------------------------
+----------------CTTACTCCAGAAAGTGTCAATCATTTTTATCTATATTGATTGAC
+ATTCTGGGGTA-------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -11,8 +11,8 @@ CTTCTGTGGTA-------------------------------------------------
 ------------------------------------------------------------
 ---------------
 >Manis_javanica <unknown description>
-------------------------------GCGATCATGTATAACTAAACGTGATGGACA
-CCTCTGTAGTAGAGGAACAC----------------------------------------
+--------------------------------GCGATCATGTATAACTAAACTGATGGAC
+ACTCTGGAGTAGAGAACAC-----------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -23,8 +23,8 @@ CCTCTGTAGTAGAGGAACAC----------------------------------------
 ------------------------------------------------------------
 ---------------
 >Manis_pentadactyla <unknown description>
-------------------------------GCGATCATGTATAACTAAACGTGATGGACA
-CCTCTGTAGTAGAGGAACAC----------------------------------------
+--------------------------------GCGATCATGTATAACTAAACTGATGGAC
+ACTCTGAAGTAGAGAACAC-----------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -35,8 +35,8 @@ CCTCTGTAGTAGAGGAACAC----------------------------------------
 ------------------------------------------------------------
 ---------------
 >Molossus_molossus <unknown description>
-------------------------------ACAATCATGTATAGGTGAAAATGATTGACA
-CCTCTGTAGTAGAGTAACAA----------------------------------------
+--------------------------------ACAATCATGTATAGGTGAAATGATTGAC
+ACTCTGGAGTAGAGAACAA-----------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -47,8 +47,8 @@ CCTCTGTAGTAGAGTAACAA----------------------------------------
 ------------------------------------------------------------
 ---------------
 >Dasypus_novemcinctus <unknown description>
----------------CTACTCCAGAGAGTGACAATCACGTATAAGTAAATATGATTGACA
-CCTCTGAAGTG-------------------------------------------------
+-----------------CTACTCCAGAGAGTGACAATCACGTATAAGTAAATTGATTGAC
+ACTCTGGAGTG-------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -59,8 +59,8 @@ CCTCTGAAGTG-------------------------------------------------
 ------------------------------------------------------------
 ---------------
 >Pan_troglodytes <unknown description>
-----------------TACTCTGGAGAGTGACAATCATGTATAACTAAATTTGATTGACA
-CTTCTGTAGTAGA-----------------------------------------------
+------------------TACTCTGGAGAGTGACAATCATGTATAACTAAATTGATTGAC
+ATTCTGGAGTAGA-----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -71,8 +71,8 @@ CTTCTGTAGTAGA-----------------------------------------------
 ------------------------------------------------------------
 ---------------
 >Pan_paniscus <unknown description>
-----------------TACTCTGGAGAGTGACAATCATGTATAACTAAATTTGATTGACA
-CTTCTGTAGTAGA-----------------------------------------------
+------------------TACTCTGGAGAGTGACAATCATGTATAACTAAATTGATTGAC
+ATTCTGGAGTAGA-----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -83,8 +83,8 @@ CTTCTGTAGTAGA-----------------------------------------------
 ------------------------------------------------------------
 ---------------
 >Homo_sapiens <unknown description>
-----------------TACTCTGGAGAGTGACAATCATGTATAACTAAATTTGATTGACA
-CTTCTGTAGTAGA-----------------------------------------------
+------------------TACTCTGGAGAGTGACAATCATGTATAACTAAATTGATTGAC
+ATTCTGGAGTAGA-----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -95,20 +95,20 @@ CTTCTGTAGTAGA-----------------------------------------------
 ------------------------------------------------------------
 ---------------
 >Suricata_suricatta <unknown description>
-ATTCTTGTGTAGACCCTACTCTAGAGAGTGTCAAAAATGTATAATTAAATGTGATTGACA
-CTTCTGTAGTGGAGTAATACATGACATTTTCCACAAAGACGATGGCACTGTAGGTGTATT
-GGGAGTACATTCCTTTCAGAATCTTGTGTGTTTTCACTGCTTATCTTTGGTTCTGAGTTG
-AGACAGCTAACTCAGGTAGAGGGTCTTAGATATTTGAGGCATAAGGCAGGGTTGGTGTGA
-TGGGTATTTTTCGCTTATTTGGATCTGAACAATACAAACCTCTTGTTGAATCTTTATTTA
-AGAATGGGAAAAGGAGCAAGATAAGGCATGCAAGGATATATCTCGTAAGTAAACCTGGGG
-AACAGGCTAAAGGATTTTTCATTTGGGAAAGTGCCATGGAAAAACGCCAGAGGTTAGAAG
-ATAGCACTCAGGAGACAGATGATGGTGGGGGTGGGTGTTACACTGGTCCTTTGTACAATC
-ACAGCCGCCTCTCACAACCTGAAAACACTGACCAATTGATCACAAATGATAAGGGGTAGG
-TAGGCAGGACTGTCAACTGCAGATTGTTTGTGTATACCCTACTAGAGACTGTCATCATGT
+ATTCTTTGTGTAGTACCCTACTCTAGAGAGTGTCAAAAATGTATAATTAAATTGATTGAC
+ATTCTGGAGTGGAGAATACATGACATTTTCCCAAAGACGATGGCACTGTAGGTGTATTGG
+GAGTACATTCCTTTCAGATCTTGTGTGTTTTCCTGCTTATTCTTGGTTCTAGAGTGAGAA
+GCTACTCAGGTAGAGGGTCTTAGATATTTGAGGCATAAGGCAGGAGTTGGTGTGATGGAG
+TATATTTTTCGCTTATTTGGATCTGAACAATACAACCTCTTGTTAATGCTTTATTATAAG
+AATGGGAAAAGGAGCAAGATAAGGCATGCAAGGATATATCTTCGTAAGTAAACCTGGGGA
+ACAGGCTAAAGGATTTTTCATTTGGGAAAGTGCCATGAAAAACTGCCAGAGGTTAGAAGA
+TAGCACTCAGGAGACAGATGATGGGGGGGTGGGTGTTACACTGGTCCTTTGTACAAATCA
+CAGCCGCCTCTCACAACCTGAAAACACTGACCAATTGTTCACAAATGCATAAGGGGTAGG
+TAGGCAGGACTGTCAACCTCAGATGTTTGTGTATACCCTCTCCAGAGACTGTAATCATGT
 ATAATTAAATGTGAT
 >Ochotona_princeps <unknown description>
---------------------------------------GTATAAATAAATATGATTGACA
-CTTCTATAGTGGAGTAAAGCATGA------------------------------------
+----------------------------------------GTATAAATAAATTGATTGAC
+ATTCTAGAGTGGAGAAAGCATGA-------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -119,8 +119,8 @@ CTTCTATAGTGGAGTAAAGCATGA------------------------------------
 ------------------------------------------------------------
 ---------------
 >Equus_caballus <unknown description>
-------------------CTCCGGAAAGTGTCAATCATGTATAACTAAATATGATTGACA
-CCTCTGTAGTGGAG----------------------------------------------
+--------------------CTCCGGAAAGTGTCAATCATGTATAACTAAATTGATTGAC
+ACTCTGGAGTGGAG----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -131,8 +131,8 @@ CCTCTGTAGTGGAG----------------------------------------------
 ------------------------------------------------------------
 ---------------
 >Equus_asinus <unknown description>
-------------------CTCCGGAAAGTGTCAATCATGTATAACTAAATATGATTGACA
-CCTCTGTAGTGGAG----------------------------------------------
+--------------------CTCCGGAAAGTGTCAATCATGTATAACTAAATTGATTGAC
+ACTCTGGAGTGGAG----------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -143,8 +143,8 @@ CCTCTGTAGTGGAG----------------------------------------------
 ------------------------------------------------------------
 ---------------
 >Equus_przewalskii <unknown description>
----------------TCACTCCGGAAAGTGTCAATCATGTATAACTAAATATGATTGACA
-CCTCTGTAGT--------------------------------------------------
+-----------------TCACTCCGGAAAGTGTCAATCATGTATAACTAAATTGATTGAC
+ACTCTGGAGT--------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
